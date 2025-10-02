@@ -29,6 +29,10 @@ url: "https://dl-2026.github.io" # the base hostname & protocol for your site, e
 
 logo: "/assets/images/dl.png"
 
+header:
+  image: "/assets/images/pexels-matej-simko-809440051-27832051.jpg"
+
+
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
