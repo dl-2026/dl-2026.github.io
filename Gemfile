@@ -15,6 +15,7 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem 'jekyll-include-cache'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
