@@ -29,7 +29,7 @@ url: "https://dl-2026.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
   - jekyll-feed
