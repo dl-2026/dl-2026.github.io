@@ -1,0 +1,13 @@
+main:
+  - title: "Dates"
+    url: /dates/
+  - title: "Papers"
+    url: /papers/
+  - title: "Registration"
+    url: /registration/
+  - title: "Program"
+    url: /program/
+  - title: "Students"
+    url: /students/
+  - title: "Team"
+    url: /orga/

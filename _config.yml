@@ -21,7 +21,7 @@
 title: Description Logics Workshop 2026
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description Logics Workshop 2026. Lisbon, Portugal
+  Description Logics Workshop 2026 · Lisbon, Portugal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dl-2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -33,9 +33,16 @@ logo: "/assets/images/dl.png"
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
+layout: splash
+
+footer: false
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
