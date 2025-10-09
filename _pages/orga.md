@@ -18,7 +18,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 <a href="https://www.frankfurt-university.de/de/hochschule/fachbereich-2-informatik-und-ingenieurwissenschaften/kontakt/professorinnen-und-professoren-im-fachbereich-2/baris-sertkaya/">Barış Sertkaya</a>, Frankfurt University of Applied Sciences, Germany
 
 <h4>Local Chair</h4>
-<a href="https://userweb.fct.unl.pt/~mkn/">Matthias Knorr</a>, Universidade Nova de Lisboa  
+<a href="https://userweb.fct.unl.pt/~mkn/">Matthias Knorr</a>, Universidade Nova de Lisboa, Portugal  
 
 <h4>Session Chairs</h4>
 TBD

@@ -25,14 +25,15 @@ The DL workshop is the major annual event of the description logic research comm
 -------------------
 
 <h2>Submissions</h2>
-The DL reviewing process follows a single-blind model, meaning that reviewers will see the authors’ names. Therefore, please include author names in your submitted files. However, if you prefer to remain anonymous, we offer an anonymous (i.e. double-blind) submission option.
+Traditionally, the DL review process follows a single-blind model, where reviewers can see the authors’ names. Therefore, for standard submissions, please include author names in your submitted files. However, if you have a specific reason to remain anonymous, you may opt for the anonymous (i.e., double-blind) submission option instead. The new submission platform---HotCRP---supports both options, allowing authors to select their preferred review model during the submission process (see <a href="/assets/images/hotcrp.png">screenshot</a> for reference).
+
 
 <h4>Submission Categories</h4>
 Submissions within the scope of the workshop are invited in one of the following formats:
 - Regular Papers: Up to 11 pages (excluding references)
 - Extended Abstracts: 2 to 4 pages (excluding references).
 
-All submissions must follow the CEURART formatting style using our DL-specific template <b>TBD</b> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a> (NEW!).
+All submissions must follow the CEURART formatting style using our DL-specific template <b>TBD</b> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a>.
 
 <b>Regular Papers</b>
 - Must provide substantial contributions that can be cited in other publications.
