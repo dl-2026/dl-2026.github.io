@@ -21,8 +21,8 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 <a href="https://userweb.fct.unl.pt/~mkn/">Matthias Knorr</a>, Universidade Nova de Lisboa, Portugal  
 
 <h4>Session Chairs</h4>
-TBD
+TBA
 
 <h4>Program Committee</h4>
-TBD
+TBA
 

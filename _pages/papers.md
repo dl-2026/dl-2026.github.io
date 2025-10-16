@@ -14,7 +14,7 @@ The DL workshop is the major annual event of the description logic research comm
 
 <b>Foundations of description logics</b>: decidability and complexity of reasoning, expressive power, novel inference problems, inconsistency management, reasoning techniques, modularisation, ontology extraction, abductive and inductive reasoning
 
-<b>Extensions of description logics</b>: closed-world and non-monotonic reasoning, epistemic reasoning, temporal and spatial reasoning, procedural knowledge, query answering, reasoning over dynamic information
+<b>Extensions of description logics</b>: closed-world and non-monotonic reasoning, epistemic reasoning, fuzzy reasoning, temporal and spatial reasoning, procedural knowledge, query answering, reasoning over dynamic information
 
 <b>Integration of description logics with other formalisms</b>: object-oriented representation languages, database query languages, constraint-based programming, logic programming, rule-based systems
 

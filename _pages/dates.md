@@ -11,12 +11,12 @@ excerpt: "DL 2026 · July 17-19 · Lisbon, Portugal"
 
 
 
-| TBD    | Paper registration and abstract      |
-| TBD    | Paper submission  |
-| TBD    | Notification of acceptance |
-| TBD    | Student grant application deadline |
-| TBD    | Early registration via FLoC 2026 registration |
-| TBD    | Regular registration via FLoC 2026 registration |
+| TBA    | Paper registration and abstract      |
+| TBA    | Paper submission  |
+| TBA    | Notification of acceptance |
+| TBA    | Student grant application deadline |
+| TBA    | Early registration via FLoC 2026 registration |
+| TBA    | Regular registration via FLoC 2026 registration |
 | July 17-19 | DL workshop |
 
 --------------------------

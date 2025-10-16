@@ -8,4 +8,4 @@ header:
   overlay_color: "#000" # black overlay (optional)
 excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
-TBD
+TBA
