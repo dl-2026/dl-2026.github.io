@@ -10,7 +10,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
 
 <h2>Submissions</h2>
-Traditionally, the DL review process follows a single-blind model, where reviewers can see the authors’ names. Therefore, for standard submissions, please include author names in your submitted files. However, if you have a specific reason to remain anonymous, you may opt for the anonymous (i.e., double-blind) submission option instead. The new submission platform---HotCRP---supports both options, allowing authors to select their preferred review model during the submission process (see <a href="/assets/images/hotcrp.png">screenshot</a> for reference).
+Traditionally, the DL review process follows a single-blind model, where reviewers can see the authors’ names. Therefore, for standard submissions, please include author names in your submitted files. However, if you have a specific reason to remain anonymous, you may opt for the anonymous (i.e., double-blind) submission option instead. The new submission platform---HotCRP---supports both options, allowing authors to select their preferred review model during the submission process (see <a href="/assets/images/hotcrp.png" target="_blank">screenshot</a> for reference).
 
 
 <h4>Submission Categories</h4>
@@ -18,7 +18,7 @@ Submissions within the scope of the workshop are invited in one of the following
 - Regular Papers: Up to 11 pages (excluding references)
 - Extended Abstracts: 2 to 4 pages (excluding references).
 
-All submissions must follow the CEURART formatting style using our DL-specific template <b>TBD</b> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a>.
+All submissions must follow the CEURART formatting style using our DL-specific template <b>TBD</b> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a> in PDF.
 
 <b>Regular Papers</b>
 - Must provide substantial contributions that can be cited in other publications.
@@ -35,4 +35,7 @@ All submissions must follow the CEURART formatting style using our DL-specific t
 
 Accepted submissions (both regular papers and extended abstracts) will be considered for oral or poster presentations at the workshop. The selection will be based solely on content quality, not on the type of submission.
 
+<b>Worshop Proceedings</b>
+
+The accepted papers will be made available electronically in the <a href="http://ceur-ws.org/" target="_blank">CEUR Workshop Proceedings series</a> as informal proceedings. The copyright of papers remain with the authors. Full papers will be indexed by <a href="dblp.org" taget="_blank">DBLP</a>; but extended abstracts published on CEUR proceedings will not.
 
