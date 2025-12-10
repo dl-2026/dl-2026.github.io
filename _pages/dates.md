@@ -11,8 +11,8 @@ excerpt: "DL 2026 · July 17-19 · Lisbon, Portugal"
 
 
 
-| April 14    | Paper registration and abstract      |
-| April 21    | Paper submission  |
+| April 14  | Paper registration and abstract      |
+| April 21  | Paper submission  |
 | May 20    | Notification of acceptance |
 | May 22   | Student grant application deadline |
 | May 27 | Student grant notification |
@@ -21,7 +21,7 @@ excerpt: "DL 2026 · July 17-19 · Lisbon, Portugal"
 | June 21   | Camera-ready version due |
 | July 17-19 | DL workshop |
 
---------------------------
+All dates are specified in <a href="https://time.is/Anywhere_on_Earth" target="_blank">AOE (Anywhere on Earth)</a> time zone.
 
 DL 2026 is planned as an <b>in-person</b> event. To foster meaningful discussions and networking opportunities, at least one author of each accepted paper is required to attend the workshop in person.
 
