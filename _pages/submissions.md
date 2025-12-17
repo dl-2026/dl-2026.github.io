@@ -18,7 +18,7 @@ Submissions within the scope of the workshop are invited in one of the following
 - Regular Papers: Up to 11 pages (excluding references)
 - Extended Abstracts: 2 to 4 pages (excluding references).
 
-All submissions must follow the CEURART formatting style using our DL-specific template <b>TBD</b> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a> in PDF.
+All submissions must follow the CEURART formatting style using <a href="/assets/CEURART-DL26.zip" target="_blank">our DL-specific template</a> and submitted through <a href="https://submissions.floc26.org/dl/">HotCRP for DL 2026</a> in PDF.
 
 <b>Regular Papers</b>
 - Must provide substantial contributions that can be cited in other publications.
