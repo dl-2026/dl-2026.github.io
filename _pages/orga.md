@@ -112,10 +112,10 @@ Our Program Committee consists of distinguished researchers who ensure the highe
                 <div class="stat-number">12</div>
                 <div class="stat-label">Countries</div>
             </div>
-            <div class="stat-box">
+            <!--<div class="stat-box">
                 <div class="stat-number">0</div>
                 <div class="stat-label">Papers Reviewed</div>
-            </div>
+            </div>-->
         </div>
         <div class="two-column-list">
             <div class="person-item">
