@@ -92,7 +92,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
         .stat-number {
             font-size: 2.5rem;
             font-weight: 700;
-            color: #3949ab;
+            color: #9c3913;
             margin-bottom: 10px;
         }
         
