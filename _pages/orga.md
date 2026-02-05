@@ -13,7 +13,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 <a href="https://userweb.fct.unl.pt/~mkn/">Matthias Knorr</a>, Universidade Nova de Lisboa, Portugal\\
 <a href="https://ijv.ovh/">Ivan Varzinczak</a>, Université Sorbonne Paris Nord, France
 
-<h4>Program Committee Co-Chairs</h4> [Contact Form](https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/754534?lang=en){: .btn .btn--primary .align-right}
+<h4>Program Committee Co-Chairs</h4> [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSda1ULASRoUZWUonC-pd-MYlAEJnrz7MUES338U9Pf5_9it0w/viewform?usp=publish-editor){:target="_blank" .btn .btn--primary .align-right}
 <a href="https://lat.inf.tu-dresden.de/~alisa/">Alisa Kovtunova</a>, TU Dresden, Germany\\
 <a href="https://www.frankfurt-university.de/de/hochschule/fachbereich-2-informatik-und-ingenieurwissenschaften/kontakt/professorinnen-und-professoren-im-fachbereich-2/baris-sertkaya/">Barış Sertkaya</a>, Frankfurt University of Applied Sciences, Germany
 
