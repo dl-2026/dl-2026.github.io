@@ -16,9 +16,9 @@ excerpt: "DL 2026 · July 17-19 · Lisbon, Portugal"
 | May 20    | Notification of acceptance |
 | May 22   | Student grant application deadline |
 | May 27 | Student grant notification |
-| TBA    | Early registration via FLoC 2026 registration |
-| TBA    | Regular registration via FLoC 2026 registration |
+| June 1    | End of the [DL via FLoC'26](https://www.floc26.org/registration) early registration |
 | June 21   | Camera-ready version due |
+| July 13    | End of the [DL via FLoC'26](https://www.floc26.org/registration) late registration |
 | July 17-19 | DL workshop |
 
 All dates are specified in <a href="https://time.is/Anywhere_on_Earth" target="_blank">AOE (Anywhere on Earth)</a> time zone.
