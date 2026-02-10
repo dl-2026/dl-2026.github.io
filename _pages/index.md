@@ -152,28 +152,28 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             <img src="/assets/images/TM.jpg" alt="Tommie Meyer Picture" class="speaker-img">
             <div class="speaker-info">
                 <h4 class="speaker-name">Tommie Meyer</h4>
-                <p>Professor of Computer Science</p>
+                <!--<p>Professor of Computer Science</p>-->
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>University of Cape Town</p>
-              <!--  <div class="speaker-talk">
-                    <p class="talk-title">The Future of AI in Healthcare</p>
-                    <p>Exploring how deep learning algorithms can revolutionize early disease detection and personalized treatment plans.</p>
-                </div> -->
+                <div class="speaker-talk">
+                    <p class="talk-title">DL & NMR: A Joint Talk</p>
+                    <p></p>
+                </div> 
             </div>
         </div>
         
         <!-- Speaker 2 -->
-        <!-- <div class="speaker-card">
-            <img src="https://images.unsplash.com/photo-1494790108755-2616b786d4d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" alt="Dr. Maria Rodriguez" class="speaker-img">
+        <div class="speaker-card" onclick="window.open('https://lat.inf.tu-dresden.de/~stefborg/', '_blank')">
+            <img src="/assets/images/SB.png" alt="Stefan Borgwardt" class="speaker-img">
             <div class="speaker-info">
-                <h3 class="speaker-name">Dr. Maria Rodriguez</h3>
-                <p class="speaker-title">Director of Genomics Research</p>
-                <p class="speaker-affiliation"><i class="fas fa-university"></i> Cambridge University, UK</p>
-                <div class="speaker-talk">
+                <h3 class="speaker-name">Stefan Borgwardt</h3>
+                <!--<p class="speaker-title">Director of Genomics Research</p>-->
+                <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dresden, Germany</p>
+               <!-- <div class="speaker-talk">
                     <p class="talk-title">CRISPR and Beyond: Gene Editing Frontiers</p>
                     <p>Recent advances in gene editing technologies and their ethical implications for future medical treatments.</p>
-                </div>
+                </div>-->
             </div>
-        </div> -->
+        </div> 
         
         <!-- Speaker 3 -->
        <!-- <div class="speaker-card">
