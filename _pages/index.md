@@ -163,7 +163,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         
         <!-- Speaker 2 -->
         <div class="speaker-card" onclick="window.open('https://lat.inf.tu-dresden.de/~stefborg/', '_blank')">
-            <img src="/assets/images/SB.png" alt="Stefan Borgwardt" class="speaker-img">
+            <img src="/assets/images/SB.jpg" alt="Stefan Borgwardt" class="speaker-img">
             <div class="speaker-info">
                 <h3 class="speaker-name">Stefan Borgwardt</h3>
                 <!--<p class="speaker-title">Director of Genomics Research</p>-->
