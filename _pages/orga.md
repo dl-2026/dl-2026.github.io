@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">54</div>
+                <div class="stat-number">55</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -129,7 +129,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             </div>
             
             <div class="person-item">
-                <div class="name">Bartosz Bedmarczyk</div>
+                <div class="name">Bartosz Bednarczyk</div>
                 <div class="details">TU Wien & University of Wrocław, Austria & Poland</div>
             </div>
             
@@ -341,6 +341,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Federico Scafoglieri</div>
                 <div class="details">Sapienza University of Rome, Italy</div>
+            </div>
+
+            <div class="person-item">
+                <div class="name">Uli Sattler</div>
+                <div class="details">University of Manchester, UK</div>
             </div>
             
             <div class="person-item">
