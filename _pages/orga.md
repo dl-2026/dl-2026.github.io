@@ -105,11 +105,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">52</div>
+                <div class="stat-number">54</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
-                <div class="stat-number">12</div>
+                <div class="stat-number">13</div>
                 <div class="stat-label">Countries</div>
             </div>
             <!--<div class="stat-box">
@@ -201,6 +201,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Anselm Haak</div>
                 <div class="details">Paderborn University, Germany</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Martin Homola</div>
+                <div class="details">Comenius University Bratislava, Slovakia</div>
             </div>
             
             <div class="person-item">
