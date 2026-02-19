@@ -227,6 +227,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
                 <div class="name">Daumantas Kojelis</div>
                 <div class="details">Leipzig University, Germany</div>
             </div>
+            
+            <div class="person-item">
+                <div class="name">Jędrzej Kołodziejski</div>
+                <div class="details">University of Warsaw, Poland</div>
+            </div>
 
             <div class="person-item">
                 <div class="name">Roman Kontchakov</div>
