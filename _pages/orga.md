@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">55</div>
+                <div class="stat-number">56</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -306,6 +306,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Cem Okulmus</div>
                 <div class="details">Paderborn University, Germany</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Anouk Michelle Oudshoorn</div>
+                <div class="details">TU Wien, Austria</div>
             </div>
 
             <div class="person-item">
