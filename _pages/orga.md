@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">58</div>
+                <div class="stat-number">59</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -346,6 +346,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Denis Ponomaryov</div>
                 <div class="details">Ershov Institute of Informatics Systems, Russia</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Júlia Pukancová</div>
+                <div class="details">Comenius University Bratislava, Slovakia</div>
             </div>
             
             <div class="person-item">
