@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">59</div>
+                <div class="stat-number">60</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -224,7 +224,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             </div>
 
             <div class="person-item">
-                <div class="name">Jean Jung</div>
+                <div class="name">Jean Christoph Jung</div>
                 <div class="details">TU Dortmund University, Germany</div>
             </div>
             
@@ -236,6 +236,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Stanislav Kikot</div>
                 <div class="details">Higher School of Economics, Russia</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Ján Kľuka</div>
+                <div class="details">Comenius University Bratislava, Slovakia</div>
             </div>
             
             <div class="person-item">
