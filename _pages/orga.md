@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">61</div>
+                <div class="stat-number">62</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -181,6 +181,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Filippo De Bortoli</div>
                 <div class="details">TU Dresden, Germany</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Federica Di Stefano</div>
+                <div class="details">TU Wien, Austria</div>
             </div>
             
             <div class="person-item">
