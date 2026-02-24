@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">60</div>
+                <div class="stat-number">61</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -186,6 +186,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name"> Oliver Fernández Gil</div>
                 <div class="details">TU Dresden, Germany</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Diego Figueira</div>
+                <div class="details">CNRS, France</div>
             </div>
             
             <div class="person-item">
