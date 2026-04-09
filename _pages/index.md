@@ -27,6 +27,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 30px;
+            
         }
         
         .speaker-card {
@@ -94,7 +95,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             background-color: white;
             border-radius: 12px;
             overflow: hidden;
-            padding: 25px;
+            padding: 20px;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -116,7 +117,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         
         .sponsor-logo img {
             max-width: 100%;
-            max-height: 80px;
+            max-height: 90px;
             object-fit: contain;
         }
 
@@ -200,8 +201,8 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         <div class="sponsor-logo" onclick="window.open('https://perspicuous-computing.science', '_blank')">
             <img src="/assets/images/cpec2.png" alt="DFG grant 389792660 as part of TRR 248-CPEC" class="tooltip">
         </div>
-       <!-- <div class="sponsor-logo" onclick="window.open('https://google.com', '_blank')">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" alt="Google">
-        </div>-->
+       <div class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
+            <img src="/assets/images/aij.jpg" alt="AIJ">
+        </div>
     </div>
 </body>

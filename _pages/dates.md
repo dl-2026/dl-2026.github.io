@@ -11,8 +11,8 @@ excerpt: "DL 2026 · July 17-19 · Lisbon, Portugal"
 
 
 
-| April 14  | Paper registration and abstract      |
-| April 21  | Paper submission  |
+| <s>April 14</s> April 19 | Paper registration and abstract      |
+| <del>April 21</del> April 26  | Paper submission  |
 | May 20    | Notification of acceptance |
 | May 22   | Student grant application deadline |
 | May 27 | Student grant notification |
