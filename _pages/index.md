@@ -201,8 +201,8 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         <div class="sponsor-logo" onclick="window.open('https://perspicuous-computing.science', '_blank')">
             <img src="/assets/images/cpec2.png" alt="DFG grant 389792660 as part of TRR 248-CPEC" class="tooltip">
         </div>
-       <div class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
-            <img src="/assets/images/aij2.png" alt="AIJ">
+       <div style="background-color: rgb(243, 150, 102);" class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
+            <img style="max-height:100pt" src="/assets/images/ARTINT_Logo2_c_web_more.jpg" alt="AIJ">
         </div>
     </div>
 </body>
