@@ -177,18 +177,18 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         </div> 
         
         <!-- Speaker 3 -->
-       <!-- <div class="speaker-card">
-            <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="Dr. Kenji Tanaka" class="speaker-img">
+       <div class="speaker-card" onclick="window.open('https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/', '_blank')">
+            <img src="/assets/images/jean2.png" alt="Jean Christoph Jung" class="speaker-img">
             <div class="speaker-info">
-                <h3 class="speaker-name">Dr. Kenji Tanaka</h3>
-                <p class="speaker-title">Quantum Computing Researcher</p>
-                <p class="speaker-affiliation"><i class="fas fa-university"></i> University of Tokyo, Japan</p>
+                <h3 class="speaker-name">Jean Christoph Jung</h3>
+                <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dortmund, Germany</p>
+                <!--<p class="speaker-title">Quantum Computing Researcher</p>
                 <div class="speaker-talk">
                     <p class="talk-title">Quantum Algorithms for Real-World Problems</p>
                     <p>Developing quantum computing solutions for optimization challenges in logistics, finance, and material science.</p>
-                </div>
+                </div>-->
             </div>
-        </div> -->
+        </div> 
     </section>
 </body>
 
