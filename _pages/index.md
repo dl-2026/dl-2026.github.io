@@ -72,6 +72,13 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             margin-right: 8px;
         }
         
+        .speaker-title {
+            margin-top: -20px;
+            font-size: 0.9rem;
+            color: gray;
+            font-style: italic;
+        }
+        
         .speaker-talk {
             font-size: 0.95rem;
             border-top: 1px dashed #e0e0e0;
@@ -153,11 +160,11 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             <img src="/assets/images/TM.jpg" alt="Tommie Meyer Picture" class="speaker-img">
             <div class="speaker-info">
                 <h4 class="speaker-name">Tommie Meyer</h4>
-                <!--<p>Professor of Computer Science</p>-->
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>University of Cape Town</p>
+                <div class="speaker-title">Sponsored by CPEC</div>
                 <div class="speaker-talk">
                     <p class="talk-title">DL & NMR: A Joint Talk</p>
-                    <p></p>
+                    <!--<p>(sponsored by CPEC)</p>-->
                 </div> 
             </div>
         </div>
@@ -167,11 +174,11 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             <img src="/assets/images/SB.jpg" alt="Stefan Borgwardt" class="speaker-img">
             <div class="speaker-info">
                 <h3 class="speaker-name">Stefan Borgwardt</h3>
-                <!--<p class="speaker-title">Director of Genomics Research</p>-->
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dresden, Germany</p>
-               <!-- <div class="speaker-talk">
-                    <p class="talk-title">CRISPR and Beyond: Gene Editing Frontiers</p>
-                    <p>Recent advances in gene editing technologies and their ethical implications for future medical treatments.</p>
+                <div class="speaker-title">Sponsored by CPEC</div>
+               <!--<div class="speaker-talk">
+                    <!--<p class="talk-title">CRISPR and Beyond: Gene Editing Frontiers</p>
+                    <p>(sponsored by CPEC)</p>
                 </div>-->
             </div>
         </div> 
@@ -198,6 +205,9 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
 
 <body>
     <div class="sponsors-grid">
+        <div class="sponsor-logo" onclick="window.open('https://scads.ai/', '_blank')">
+            <img src="/assets/images/ScaDS-Logo2023_rgb.jpg" alt="ScaDS.AI-Center for Scalable Data Analytics and Artificial Intelligence Dresden/Leipzig" class="tooltip">
+        </div>
         <div class="sponsor-logo" onclick="window.open('https://perspicuous-computing.science', '_blank')">
             <img src="/assets/images/cpec2.png" alt="DFG grant 389792660 as part of TRR 248-CPEC" class="tooltip">
         </div>
