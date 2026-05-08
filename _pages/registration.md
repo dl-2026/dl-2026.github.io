@@ -11,6 +11,8 @@ header:
       url: "https://www.floc26.org/registration"
 excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
+Please note that all workshop registrations are processed through FLoC. Follow the link above to register; early bird rates apply until June 1.
+
 
 DL 2026 will be held at Edifício II - ISCTE, Avenida das Forças Armadas, 1649-026 Lisboa, Portugal.  
 
