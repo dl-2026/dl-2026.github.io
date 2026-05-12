@@ -189,8 +189,8 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             <div class="speaker-info">
                 <h3 class="speaker-name">Jean Christoph Jung</h3>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dortmund, Germany</p>
-                <!--<p class="speaker-title">Quantum Computing Researcher</p>
-                <div class="speaker-talk">
+                <div class="speaker-title">Sponsored by ScaDS.AI</div>
+                <!--<div class="speaker-talk">
                     <p class="talk-title">Quantum Algorithms for Real-World Problems</p>
                     <p>Developing quantum computing solutions for optimization challenges in logistics, finance, and material science.</p>
                 </div>-->

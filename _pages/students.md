@@ -8,7 +8,6 @@ header:
   overlay_color: "#000" # black overlay (optional)
 excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
-Student Grants
 
 A  number of student grants for participating at DL 2026 is available for students with limited funding.
 
