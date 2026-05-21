@@ -105,7 +105,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
     <div class="container">
         <div class="pc-stats">
             <div class="stat-box">
-                <div class="stat-number">62</div>
+                <div class="stat-number">63</div>
                 <div class="stat-label">Total Members</div>
             </div>
             <div class="stat-box">
@@ -371,6 +371,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Guendalina Righetti</div>
                 <div class="details">University of Oslo, Norway</div>
+            </div>
+            
+            <div class="person-item">
+                <div class="name">Vladislav Ryzhikov</div>
+                <div class="details">Birkbeck, University of London, UK</div>
             </div>
 
             <div class="person-item">
