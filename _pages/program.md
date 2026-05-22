@@ -137,7 +137,7 @@ DL & NMR Joint Dinner: Saturday evening, July 18.
 *Davide Lanti*, 
 *Kajsa A. Pedersen*, 
 *Andrey Rivkin*.  
-- <span class=talk>Talk</span> Coherence Update Semantics for Horn DL-Lite through Stratified Datalog¬ Rewriting.
+- <span class=talk>Talk</span> Coherence Update Semantics for Horn DL-Lite through Stratified Datalog<sup>¬</sup> Rewriting.
  *Stefan Borgwardt*, 
  *Duy Nhu*.  
 - <span class=talk>Talk</span> In the Heart of the Beholder: User-Tailored Explanations for Description Logics.
