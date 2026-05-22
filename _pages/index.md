@@ -125,7 +125,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         
         .sponsor-logo img {
             max-width: 100%;
-            max-height: 90pt;
+            max-height: 90px;
             object-fit: contain;
         }
 
