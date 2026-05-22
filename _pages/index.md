@@ -215,7 +215,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         </div>
         
         <div style="background-color: #f2986c;" class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
-            <img src="/assets/images/ARTINT_Logo2_c_highresolution.png" alt="AIJ" class="tooltip">
+            <img style="max-height:90pt" src="/assets/images/ARTINT_Logo2_c_highresolution.png" alt="AIJ" class="tooltip">
         </div>
         
         <!--<div style="background-color: rgb(40, 61, 121);" class="sponsor-logo" onclick="window.open('https://www.floc26.org/', '_blank')">
