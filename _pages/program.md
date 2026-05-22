@@ -13,19 +13,19 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
         background:#eef2ff;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:0.8rem;
+        font-size:smaller;
 }
     .poster {
         background:#fef3e8;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:0.8rem;
+        font-size:smaller;
 }
     .posterdemo {
         background:#e6f4ef;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:0.8rem;
+        font-size:smaller;
 }
 </style>
 
@@ -200,6 +200,6 @@ DL & NMR Joint Dinner: Saturday evening, July 18.
 *Stefan Borgwardt*,
 *Alisa Kovtunova*.  
 
-*<span style="color:gray; font-size:0.8rem;">(updated on May 22, 2026)</span>*
+*<span style="color:gray; font-size:smaller;">(updated on May 22, 2026)</span>*
 {: .text-right}
 

@@ -329,6 +329,11 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             </div>
             
             <div class="person-item">
+                <div class="name"><span style="font-size:smaller;">(External)</span> Duy Nhu</div>
+                <div class="details">TU Dresden, Germany</div>
+            </div>  
+            
+            <div class="person-item">
                 <div class="name">Cem Okulmus</div>
                 <div class="details">Paderborn University, Germany</div>
             </div>
@@ -431,7 +436,8 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             <div class="person-item">
                 <div class="name">Michael Zakharyaschev</div>
                 <div class="details">Birkbeck, University of London, UK</div>
-            </div>          
+            </div>   
+                   
         </div>
     </div>
 </body>
