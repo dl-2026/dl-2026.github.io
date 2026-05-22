@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.5" # darkens image for better text readability
   overlay_color: "#000" # black overlay (optional)
 excerpt: "July 17-19, 2026 · Lisbon, Portugal"
+
 ---
 
     
@@ -124,7 +125,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
         
         .sponsor-logo img {
             max-width: 100%;
-            max-height: 90px;
+            max-height: 90pt;
             object-fit: contain;
         }
 
@@ -204,15 +205,21 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
 <p>We extend our sincere gratitude to our sponsors for their generous support. Their contributions help advance the field of description logics through collaboration and innovation. </p>
 
 <body>
-    <div class="sponsors-grid">
+    <div class="sponsors-grid">    
         <div class="sponsor-logo" onclick="window.open('https://scads.ai/', '_blank')">
             <img src="/assets/images/ScaDS-Logo2023_rgb.jpg" alt="ScaDS.AI-Center for Scalable Data Analytics and Artificial Intelligence Dresden/Leipzig" class="tooltip">
         </div>
+        
         <div class="sponsor-logo" onclick="window.open('https://perspicuous-computing.science', '_blank')">
             <img src="/assets/images/cpec2.png" alt="DFG grant 389792660 as part of TRR 248-CPEC" class="tooltip">
         </div>
-       <div style="background-color: rgb(243, 150, 102);" class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
-            <img style="max-height:100pt" src="/assets/images/ARTINT_Logo2_c_highresolution.png" alt="AIJ">
+        
+        <div style="background-color: #f2986c;" class="sponsor-logo" onclick="window.open('https://aij.ijcai.org', '_blank')">
+            <img src="/assets/images/ARTINT_Logo2_c_highresolution.png" alt="AIJ" class="tooltip">
         </div>
+        
+        <!--<div style="background-color: rgb(40, 61, 121);" class="sponsor-logo" onclick="window.open('https://www.floc26.org/', '_blank')">
+            <img style="max-height:100pt" src="/assets/images/floc_blue.png" alt="FLoC 2026" class="tooltip">
+        </div>-->
     </div>
 </body>
