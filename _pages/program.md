@@ -43,7 +43,6 @@ Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Poster
 -----
 Demo & Poster Session: Friday afternoon, July 17,  
 DL & NMR Joint Dinner in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">*Portugália*</a>: Saturday evening, July 18.  
-<span style="color:gray; font-size:smaller;">The restaurant is located in Av. Almirante Reis 117, 1150-014 Lisboa, which is 45 min walk (or 35 min by public transport) from the workshop venue.</span>
 
 ### List of Accepted Papers
 -----
