@@ -37,12 +37,7 @@ Accepted papers: **35**, comprising 13 extended abstracts and 22 full papers.
 ### Presentation Format  
 -----
 Oral presentations: **25** <span class=talk>Talks</span>.  
-Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Posters & Demos</span> and 5 foundational <span class=poster>Posters</span>.
-
-### Scheduling 
------
-Demo & Poster Session: Friday afternoon, July 17,  
-DL & NMR Joint Dinner in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">*Portugália*</a>: Saturday evening, July 18.  
+Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Posters & Demos</span> and 5 foundational <span class=poster>Posters</span>. 
 
 ### List of Accepted Papers
 -----

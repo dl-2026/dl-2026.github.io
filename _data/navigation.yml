@@ -3,8 +3,6 @@ main:
     url: /dates/
   - title: "Registration"
     url: /registration/
-  - title: "Accepted Papers"
-    url: /accepted/
   - title: "Venue"
     url: /venue/
   - title: "Program"
@@ -17,3 +15,5 @@ main:
     url: /submissions/
   - title: "Students"
     url: /students/
+  - title: "Accepted Papers"
+    url: /accepted/
