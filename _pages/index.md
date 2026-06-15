@@ -162,11 +162,10 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
             <div class="speaker-info">
                 <h4 class="speaker-name">Tommie Meyer</h4>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>University of Cape Town</p>
-                <div class="speaker-title">Sponsored by CPEC</div>
+                <div class="speaker-title">A Joint Talk with NMR, sponsored by CPEC</div>
                 <div class="speaker-talk">
                     <p class="talk-title">Defeasible Reasoning</p>
-                    <div class="speaker-title">DL & NMR: A Joint Talk</div>
-                    <p style="font-size:smaller;">Preferential approaches to defeasible reasoning have turned out to be particularly promising for the propositional case, mainly because they are based on an elegant, comprehensive, and well-studied framework for non-monotonic reasoning proposed by Kraus, Lehmann, and Magidor—often referred to as the KLM approach. In the first part of this talk I will provide an introduction to propositional KLM-style defeasible reasoning. This will be followed by an overview of attempts to extend KLM-style defeasible reasoning beyond propositional logic. More specifically, I’ll look at the application of the KLM approach to description logics and some restricted first-order logics. In doing so, I’ll describe what has worked well, but also what are the (many) remaining challenges</p>
+                    <p style="font-size:smaller;">Preferential approaches to defeasible reasoning have turned out to be particularly promising for the propositional case, mainly because they are based on an elegant, comprehensive, and well-studied framework for non-monotonic reasoning proposed by Kraus, Lehmann, and Magidor—often referred to as the KLM approach. In the first part of this talk I will provide an introduction to propositional KLM-style defeasible reasoning. This will be followed by an overview of attempts to extend KLM-style defeasible reasoning beyond propositional logic. More specifically, I’ll look at the application of the KLM approach to description logics and some restricted first-order logics. In doing so, I’ll describe what has worked well, but also what are the (many) remaining challenges.</p>
                 </div> 
             </div>
         </div>

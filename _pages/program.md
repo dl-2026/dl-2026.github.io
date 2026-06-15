@@ -13,28 +13,21 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
         background:#eef2ff;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:smaller;
-}
 
-    .sm {
-        font-size:smaller;
 }
     .poster {
         background:#fef3e8;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:smaller;
 }
     .posterdemo {
         background:#e6f4ef;
         padding:5px 10px;
         border-radius:12px; 
-        font-size:smaller;
 }
 </style>
 
-### Friday
-July 17, 2026 
+### Friday July 17, 2026 
 
 | Time       |  | Event                          |
 | :--------- | :--------- | :----------------------------- |
@@ -44,34 +37,62 @@ July 17, 2026
 | 10:00-10:30 | | Coffee break |
 | ----------- | ----------- | ------------------------------------- |
 | 10:30-12:00 | | **Meeting the Practice** |
-| | 10:30-11:10 | <span class=posterdemo>Poster & Demo</span> Announcements |
+| | 10:30-11:10 | <span class=posterdemo>Poster & Demo Announcements</span> |
 | | 11:10-11:20 | Pause |
-| | 11:20-11:40 | <span class=talk>Talk</span> QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K. *Momen Hassan*, *Uli Sattler*.  |
-| | 11:40-12:00 | <span class=talk>Talk</span> ontopEO: VKGs over Earth Observation Data (Extended Abstract). *Albulen Pano*, *Davide Lanti*, *Diego Calvanese*,  *Piero Campalani*, *Alexander Jacob*, *Alessandro Mosca*.  |
+| | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
+| | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data (Extended Abstract)</span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | ----------- | ----------- | ------------------------------------- |
 | 12:00-13:30 | | Lunch |
 | ----------- | ----------- | ------------------------------------- |
 | 13:30-14:50 | | **Taming the structure. Transitive closure, regular expressions of roles, tree descriptions** |
-| | 13:30-13:50 | <span class=talk>Talk</span> Revisiting Conjunctive Query Entailment for S (Extended Abstract). *Yazmin Ibanez-Garcia*, *Jean Jung*, *Vincent Michielini*, *Filip Murlak*. |
-| | 13:50-14:10 | <span class=talk>Talk</span> Baby Steps Towards Finite Satisfiability For LoopPDL. *Bartosz Bednarczyk*, *Mikołaj Swoboda*. |
-| | 14:10-14:30 | <span class=talk>Talk</span> Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime. *Michał Henne*, *Barbara Morawska*, *Paweł Parys*. |
-| | 14:30-14:50 | <span class=talk>Talk</span> Tree Description Dependencies. *David Toman*, *Grant Weddell*. |  
+| | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S (Extended Abstract)</span> Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
+| | 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Bednarczyk, Mikołaj Swoboda |
+| | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
+| | 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman, Grant Weddell |  
+| ----------- | ----------- | ------------------------------------- |
+| 14:50-15:00 | | Pause |
+| ----------- | ----------- | ------------------------------------- |
+| 15:00-15:20 | | <span class=poster>Poster Announcements</span> |
+| 15:20-16:00 | | **Learning** |
+| | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
+| | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
+| 16:00-16:30 | | Coffee break + **Poster Session** |
+| 16:30-18:00 | | **Poster Session** |
+| ----------- | ----------- | ------------------------------------- |
+
+
+### Saturday July 18, 2026 
+
+| Time       |  | Event                          |
+| :--------- | :--------- | :----------------------------- |
+| 9:00-9:05  | | Welcome to DL 2026!            |
+| 9:05-10:00 | | *Defeasible Reasoning*. Invited Speaker: Tommie Meyer |
+| ----------- | ----------- | ------------------------------------- | 
+| 10:00-10:30 | | Coffee break |
+| ----------- | ----------- | ------------------------------------- |
+| 10:30-11:50 | | **Conflicts and Exceptions** |
+| | 10:30-11:10 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Penaloza Nyssen, Thomas Meyer, Leendert van der Torre |
+| | 11:10-11:20 | Pause |
+| | 11:20-11:40 | <span class=talk>Talk</span> QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K Momen Hassan, Uli Sattler  |
+| | 11:40-12:00 | <span class=talk>Talk</span> ontopEO: VKGs over Earth Observation Data (Extended Abstract) Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
+| ----------- | ----------- | ------------------------------------- |
+| 12:00-13:30 | | Lunch |
+| ----------- | ----------- | ------------------------------------- |
+| 13:30-14:50 | | **Taming the structure. Transitive closure, regular expressions of roles, tree descriptions** |
+| | 13:30-13:50 | <span class=talk>Talk</span> Revisiting Conjunctive Query Entailment for S (Extended Abstract) Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
+| | 13:50-14:10 | <span class=talk>Talk</span> Baby Steps Towards Finite Satisfiability For LoopPDL Bartosz Bednarczyk, Mikołaj Swoboda |
+| | 14:10-14:30 | <span class=talk>Talk</span> Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime Michał Henne, Barbara Morawska, Paweł Parys |
+| | 14:30-14:50 | <span class=talk>Talk</span> Tree Description Dependencies David Toman, Grant Weddell |  
 | ----------- | ----------- | ------------------------------------- |
 | 14:50-15:00 | | Pause |
 | ----------- | ----------- | ------------------------------------- |
 | 15:00-15:20 | | <span class=poster>Poster</span> Accoucements |
 | 15:20-16:00 | | **Learning** |
-| | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span><span class=sm> *Bente Gortworst*, *Cem Okulmus*, *Magdalena Ortiz*, *Anni-Yasmin Turhan*</span> |
-| | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span><span class=sm>*Maurice Funk*, *Simon Hosemann*, *Carsten Lutz*</span> |
+| | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
+| | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span>Maurice Funk, Simon Hosemann, Carsten Lutz |
 | 16:00-16:30 | | Coffee break + Poster Session |
 | 16:30-18:00 | | Poster Session |
 | ----------- | ----------- | ------------------------------------- |
-
-
-### Saturday
-July 18, 2026 
-
-
 
 
 ### Scheduling 
