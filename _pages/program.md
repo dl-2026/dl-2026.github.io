@@ -32,6 +32,12 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ### Friday
 -----
 
+| This   | is    | a       |
+| ------ | ----- | ------- |
+| simple | table | example |
+
+
+
 |:------:|:------------|
 | 9:00-9:05 | Welcome to DL 2026! |
 | 9:05-10:00 | Invited Speaker: Jean Christoph Jung |
