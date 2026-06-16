@@ -44,7 +44,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov |  
-| 11:10-11:20 | 🧘 | Breather |
+| | 🧘 | Breather |
 | 11:20-12:00 | | **DL in Action** |
 | | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
 | | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
@@ -57,7 +57,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
 | | 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman, Grant Weddell |  
 | ----------- | ----------- | ------------------------------------- |
-| 14:50-15:00 | 🧘 | Breather |
+| | 🧘 | Breather |
 | ----------- | ----------- | ------------------------------------- |
 | 15:00-15:20 | | *Poster Announcements* |
 | | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
@@ -68,7 +68,9 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | 15:20-16:00 | | **Learning** |
 | | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
+| ----------- | ----------- | ------------------------------------- |
 | 16:00-16:30 | ☕ | Coffee break |
+| ----------- | ----------- | ------------------------------------- |
 | 16:30-17:30 | | **Poster & Demo Session** |
 | | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
 | | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov |  
@@ -86,7 +88,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 ### Saturday July 18, 2026 
 
 | Time       |  | Event                          |
-| :--------- | :--------- | :----------------------------- |
+| :--------- | :---------: | :----------------------------- |
 | 9:00-10:00 | | Defeasible Reasoning. **Invited Speaker: Tommie Meyer** |
 | ----------- | ----------- | ------------------------------------- | 
 | 10:00-10:30 | ☕ | Coffee break |
@@ -97,7 +99,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | 11:10-11:30 | <span class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></span> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | | 11:30-11:50 | <span class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></span> Meghyn Bienvenu, Camille Bourgaux, Robin Jean, Giuseppe Mazzotta |
 | ----------- | ----------- | ------------------------------------- |
-| 11:50-12:00 | 🧘 | Breather |
+| | 🧘 | Breather |
 | ----------- | ----------- | ------------------------------------- |
 | 12:00-12:40 | | **"To infinity and beyond!"** |
 | | 12:00-12:20 | <span class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></span> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini |
@@ -114,7 +116,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 ### Sunday July 19, 2026 
 
 | Time       |  | Event                          |
-| :--------- | :--------- | :----------------------------- |
+| :--------- | :---------: | :----------------------------- |
 | 9:15-10:10 | | **Invited Speaker: Stefan Borgwardt** |
 | ----------- | ----------- | ------------------------------------- | 
 | 10:10-10:40 | ☕ | Coffee break |
@@ -123,7 +125,9 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | 10:40-11:00 | <span class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</span> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova  |
 | | 11:00-11:20 | <span class=talk>ProofTeller: Exposing Recency Bias in LLM Reasoning and Its Side Effects on Communication<!--(Extended Abstract)--></span> Mayank Jobanputra, Alisa Kovtunova, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, Vera Demberg |
 | | 11:20-11:40 | <span class=talk>The More the Merrier: Combining Properties for ABox Abduction under Repair Semantics for ℰℒ<sub>⊥</sub></span> Anselm Haak, Patrick Koopmann, Yasir Mahmood, Anni-Yasmin Turhan  |
-| 11:40-11:50 | 🧘 | Breather |
+| ----------- | ----------- | ------------------------------------- |
+| | 🧘 | Breather |
+| ----------- | ----------- | ------------------------------------- |
 | | 11:50-12:10 | <span class=talk>LPX-AbPoint: Abduction and Pinpointing for Explaining Link Predictions on DL Knowledge Graphs</span> Roberto Barile, Claudia d'Amato, Nicola Fanizzi |
 | | 12:10-12:30 | <span class=talk>Introducing Prism Embeddings: A New Family of Geometric Ontology Embeddings</span> Giuseppe Federico, Mena Leemhuis, Oliver Kutz |
 | ----------- | ----------- | ------------------------------------- |
@@ -134,7 +138,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | 11:00-11:20 | <span class=talk>Towards Monitoring of Patients with Bipolar Disorder<!--(Extended Abstract)--></span> Greta Adamo, Roman Kontchakov, Davide Lanti, Kajsa A. Pedersen, Andrey Rivkin  |
 | | 11:20-11:40 | <span class=talk>Finding New Boxes for the Diamonds: On the Behavior of Convex Modal Operators for Temporal Description Logics</span> Stefan Borgwardt, Alisa Kovtunova  |
 | ----------- | ----------- | ------------------------------------- |
-| 15:00-15:10 | 🧘 | Breather |
+| | 🧘 | Breather |
 | ----------- | ----------- | ------------------------------------- |
 | 15:10-16:10 | | **All about DL-Lite** |
 | | 15:10-15:30 | <span class=talk>A Horn Extension of DL-Lite with NL data complexity</span> Janos Arpasi, Bartosz Jan Bednarczyk, Magdalena Ortiz |
