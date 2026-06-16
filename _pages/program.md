@@ -46,7 +46,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
 | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
-| **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions of Roles, Tree Descriptions** |
+| **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
 | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
 | 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Bednarczyk, Mikołaj Swoboda |
 | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
