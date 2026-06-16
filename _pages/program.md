@@ -79,7 +79,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:00-10:00** | Defeasible Reasoning. **Invited Speaker: Tommie Meyer** |
+| **9:00-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie Meyer** |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
 | 10:30-10:50 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Penaloza Nyssen, Thomas Meyer, Leendert van der Torre |
