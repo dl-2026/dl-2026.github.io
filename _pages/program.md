@@ -27,7 +27,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 }
 </style>
 
-*Break periods and lunch hours vary by day and are not consistent. Please verify the specific times for each date.*
+Break periods and lunch hours vary by day and are not consistent. Please verify the specific times for each date.
 
 ### Friday July 17, 2026 
 
@@ -38,18 +38,18 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 | ----------- | ----------- | ------------------------------------- | 
 | 10:00-10:30 | | Coffee break |
 | ----------- | ----------- | ------------------------------------- |
-| 10:30-12:00 | | **DL in Action** |
-| | 10:30-11:10 | <span class=posterdemo>Poster & Demo Announcements</span> |
+| 10:30-11:10 | | *Poster & Demo Announcements* |
 | | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza |
 | | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa, Franz Baader, Raimund Dachselt, Pratistha Kansakar, Julián Méndez, Afshin Zanganeh | 
 | | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov |  
-| | 11:10-11:20 | Breather |
+| 11:10-11:20 | | Breather |
+| 11:20-12:00 | | **DL in Action** |
 | | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
 | | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | ----------- | ----------- | ------------------------------------- |
-| 12:00-13:30 | | Lunch |
+| 12:00-13:30 | 🍕 | Lunch |
 | ----------- | ----------- | ------------------------------------- |
 | 13:30-14:50 | | **Taming the Structure. Transitive Closure, Regular Expressions of Roles, Tree Descriptions** |
 | | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
@@ -59,12 +59,12 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 | ----------- | ----------- | ------------------------------------- |
 | 14:50-15:00 | | Breather |
 | ----------- | ----------- | ------------------------------------- |
-| 15:00-15:20 | | <span class=poster>Poster Announcements</span> |
+| 15:00-15:20 | | *Poster Announcements* |
 | | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
-| | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
-| | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
+| | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
+| | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve |
 | | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
+| | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
 | 15:20-16:00 | | **Learning** |
 | | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
@@ -72,15 +72,14 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 | 16:30-17:30 | | **Poster & Demo Session** |
 | | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
 | | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov |  
-| | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
+| | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
 | | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza | 
 | | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová | 
-| | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi |
+| | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve |
 | | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa, Franz Baader, Raimund Dachselt, Pratistha Kansakar, Julián Méndez, Afshin Zanganeh | 
-| | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
+| | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
 | | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-
 | ----------- | ----------- | ------------------------------------- |
 
 
@@ -104,11 +103,11 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 | | 12:00-12:20 | <span class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></span> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini |
 | | 12:20-12:40 | <span class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></span> Lucas Larroque, Quentin Manière |
 | ----------- | ----------- | ------------------------------------- |
-| 12:40-14:10 | | Lunch |
+| 12:40-14:10 | 🍕 | Lunch |
 | ----------- | ----------- | ------------------------------------- |
 | 14:10-17:00 | | **Special Session featuring Moshe Vardi, Franz Baader, Magdalena Ortiz and Davide Lanti** |
 | ----------- | ----------- | ------------------------------------- |
-| 19:00 | | DL & NMR Joint Dinner in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">*Portugália*</a> |
+| 19:00 | | DL & NMR Joint Dinner in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">Portugália</a> |
 | ----------- | ----------- | ------------------------------------- |
 
 
@@ -128,7 +127,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 | | 11:50-12:10 | <span class=talk>LPX-AbPoint: Abduction and Pinpointing for Explaining Link Predictions on DL Knowledge Graphs</span> Roberto Barile, Claudia d'Amato, Nicola Fanizzi |
 | | 12:10-12:30 | <span class=talk>Introducing Prism Embeddings: A New Family of Geometric Ontology Embeddings</span> Giuseppe Federico, Mena Leemhuis, Oliver Kutz |
 | ----------- | ----------- | ------------------------------------- |
-| 12:30-14:00 | | Lunch |
+| 12:30-14:00 | 🍕 | Lunch |
 | ----------- | ----------- | ------------------------------------- |
 | 14:00-15:00 | | **Temporal Extensions** |
 | | 10:40-11:00 | <span class=talk>Temporal ℰℒ and Equations over Sets of Integers</span> Anton Gnatenko, Roman Kontchakov |
