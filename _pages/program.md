@@ -42,7 +42,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov 🎙️ <!-- Breather  <big><big>🧘</big></big> --> | 
-| **11:20-12:00** | **DL in Practice** Chair: Patrick Koopmann |
+| **11:20-12:00** | **DL in Practice** chaired by Patrick Koopmann 📣 |
 | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
 | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
@@ -86,7 +86,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | 10:50-11:10 | <span class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</span> Tiziano Dalmonte, Andrea Mazzullo, Rafael Peñaloza  |
 | 11:10-11:30 | <span class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></span> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | 11:30-11:50 | <span class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></span> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
-| **12:00-12:40** | **"To infinity and beyond!"** Chair: Bartosz Bednarczyk |
+| **12:00-12:40** | **"To infinity and beyond!"** chaired by Bartosz Bednarczyk 📣 |
 | 12:00-12:20 | <span class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></span> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini |
 | 12:20-12:40 | <span class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></span> Lucas Larroque, Quentin Manière |
 | **12:40-14:10** | Lunch <big><big>🥦</big></big> |
@@ -101,7 +101,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | :---------: | :----------------------------- |
 | **9:15-10:10** | **Invited Speaker: Stefan Borgwardt** |
 | **10:10-10:40** | Coffee break <big><big>☕</big></big> |
-| **10:40-12:30** | **Explanations** Chair: Christian Alrabbaa |
+| **10:40-12:30** | **Explanations** chaired by Christian Alrabbaa 📣 |
 | 10:40-11:00 | <span class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</span> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova 🎙️  |
 | 11:00-11:20 | <span class=talk>ProofTeller: Exposing Recency Bias in LLM Reasoning and Its Side Effects on Communication<!--(Extended Abstract)--></span> Mayank Jobanputra, Alisa Kovtunova 🎙️, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, Vera Demberg |
 | 11:20-11:40 | <span class=talk>The More the Merrier: Combining Properties for ABox Abduction under Repair Semantics for ℰℒ<sub>⊥</sub></span> Anselm Haak, Patrick Koopmann 🎙️, Yasir Mahmood, Anni-Yasmin Turhan <!-- Breather  <big><big>🧘</big></big> --> | 
