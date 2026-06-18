@@ -68,7 +68,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová | 
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve 🎙️ |
 | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
-| | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
+| | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ | 
