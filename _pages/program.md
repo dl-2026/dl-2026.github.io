@@ -37,8 +37,8 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | **9:05-10:00** | **Invited Speaker: Jean Christoph Jung** |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
-| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza |
-| | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa, Franz Baader, Raimund Dachselt, Pratistha Kansakar, Julián Méndez, Afshin Zanganeh | 
+| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ |
+| | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov 🎙️ <!-- Breather  <big><big>🧘</big></big> --> | 
@@ -57,8 +57,8 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
-| **15:20-16:00** | **Learning** |
-| 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> *Bente Gortworst*, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
+| **15:20-16:00** | **Learning** chaired by Rafael Peñaloza 📣 |
+| 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
 | **16:00-16:30** | Coffee break <big><big>☕</big></big> |
 | **16:30-17:30** | **Poster & Demo Session** |
@@ -71,7 +71,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza | 
+| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ | 
 | ----------- | ------------------------------------- |
 
 
