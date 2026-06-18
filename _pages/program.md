@@ -101,7 +101,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | :---------: | :----------------------------- |
 | **9:15-10:10** | **Invited Speaker: Stefan Borgwardt** |
 | **10:10-10:40** | Coffee break <big><big>☕</big></big> |
-| **10:40-12:30** | **Explanations** |
+| **10:40-12:30** | **Explanations** Chair: Christian Alrabbaa |
 | 10:40-11:00 | <span class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</span> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova 🎙️  |
 | 11:00-11:20 | <span class=talk>ProofTeller: Exposing Recency Bias in LLM Reasoning and Its Side Effects on Communication<!--(Extended Abstract)--></span> Mayank Jobanputra, Alisa Kovtunova 🎙️, Brisca Balthes, Fedor Grigoryevich Pogulskiy, Yifan Wang, Stefan Borgwardt, Vera Demberg |
 | 11:20-11:40 | <span class=talk>The More the Merrier: Combining Properties for ABox Abduction under Repair Semantics for ℰℒ<sub>⊥</sub></span> Anselm Haak, Patrick Koopmann 🎙️, Yasir Mahmood, Anni-Yasmin Turhan <!-- Breather  <big><big>🧘</big></big> --> | 
@@ -116,8 +116,8 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | 15:10-15:30 | <span class=talk>Coherence Update Semantics for Horn DL-Lite through Stratified Datalog<sup>¬</sup> Rewriting</span> Stefan Borgwardt, Duy Nhu 🎙️ |
 | 15:30-15:50 | <span class=talk>A Horn Extension of DL-Lite with NL data complexity</span> Janos Arpasi 🎙️, Bartosz Jan Bednarczyk, Magdalena Ortiz |
 | 15:50-16:10 | <span class=talk>How Hard is it to Decide if a Fact is Relevant to a Query?<!--(Extended Abstract)--></span> Meghyn Bienvenu, Diego Figueira, Pierre Lafourcade |
-| **16:10-16:40** | Coffee break <big><big>☕</big></big> |
-| **16:40-17:40** | **Business Meeting** |
+| **16:10-16:30** | Espresso break <big><big>☕</big></big> |
+| **16:30-17:30** | **Business Meeting** |
 | ----------- | ------------------------------------- |
 
 
