@@ -123,9 +123,7 @@ Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Poster
  *Carsten Lutz*.  
 - <span class=poster>Poster</span> Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities.
 *Mattia Petrolo*, 
-*Ekaterina Kubyshkina*, 
-*Roberta Ferrario*, 
-*Daniele Porello*.  
+*Ekaterina Kubyshkina*.
 - <span class=talk>Talk</span> Towards Monitoring of Patients with Bipolar Disorder (Extended Abstract).
 *Greta Adamo*, 
 *Roman Kontchakov*, 

@@ -27,7 +27,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 }
 </style>
 
-Break periods and lunch hours vary by day and are not consistent. Please verify the specific times for each date.
+Break periods and lunch hours vary by day and are not consistent. Please check the times for each date.
 
 ### Friday July 17, 2026 
 
@@ -56,7 +56,7 @@ Break periods and lunch hours vary by day and are not consistent. Please verify 
 | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo, Ekaterina Kubyshkina, Roberta Ferrario, Daniele Porello |
+| | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | **15:20-16:00** | **Learning** chaired by Rafael Peñaloza 📣 |
 | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
