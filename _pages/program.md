@@ -91,6 +91,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 12:20-12:40 | <span class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></span> Lucas Larroque, Quentin Manière |
 | **12:40-14:10** | Lunch <big><big>🥦</big></big> |
 | **14:10-17:00** | **Special Session featuring Moshe Vardi, Franz Baader, Magdalena Ortiz and Davide Lanti** |
+| **15:30-16:00** | Coffee break <big><big>☕</big></big> |
 | **19:00-22:00** | DL & NMR Joint Dinner in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">Portugália</a> <big><big>🥂</big></big> |
 | ----------- | ------------------------------------- |
 
