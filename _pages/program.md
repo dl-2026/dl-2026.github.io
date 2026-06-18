@@ -82,8 +82,8 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:00-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie Meyer** |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
-| 10:30-10:50 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Penaloza Nyssen, Thomas Meyer, Leendert van der Torre |
-| 10:50-11:10 | <span class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</span> Tiziano Dalmonte, Andrea Mazzullo, Rafael Peñaloza  |
+| 10:30-10:50 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Penaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
+| 10:50-11:10 | <span class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</span> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza  |
 | 11:10-11:30 | <span class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></span> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | 11:30-11:50 | <span class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></span> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **12:00-12:40** | **"To infinity and beyond!"** chaired by Bartosz Bednarczyk 📣 |
