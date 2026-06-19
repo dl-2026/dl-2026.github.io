@@ -37,7 +37,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:05-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
-| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ |
+| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ |
 | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
@@ -48,7 +48,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
 | **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
 | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Christoph Jung, Vincent Michielini, Filip Murlak |
-| 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Bednarczyk, Mikołaj Swoboda 🎙️ |
+| 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Jan Bednarczyk, Mikołaj Swoboda 🎙️ |
 | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
 | 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **15:00-15:20** | Poster Announcements |
@@ -57,7 +57,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve 🎙️ |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
-| **15:20-16:00** | **Learning** chaired by Rafael Peñaloza 📣 |
+| **15:20-16:00** | **Learning** chaired by Rafael Peñaloza Nyssen 📣 |
 | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
 | **16:00-16:30** | Coffee break <big><big>☕</big></big> |
@@ -71,7 +71,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ | 
+| | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ | 
 | ----------- | ------------------------------------- |
 
 
@@ -79,14 +79,14 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:00-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie Meyer** |
+| **9:00-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
-| 10:30-10:50 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Penaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
-| 10:50-11:10 | <span class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</span> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza  |
+| 10:30-10:50 | <span class=talk>Deontic Defeasible Description Logic</span> Giovanni Casini, Rafael Peñaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
+| 10:50-11:10 | <span class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</span> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza Nyssen  |
 | 11:10-11:30 | <span class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></span> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | 11:30-11:50 | <span class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></span> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
-| **12:00-12:40** | **"To infinity and beyond!"** chaired by Bartosz Bednarczyk 📣 |
+| **12:00-12:40** | **"To infinity and beyond!"** chaired by Bartosz Jan Bednarczyk 📣 |
 | 12:00-12:20 | <span class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></span> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini |
 | 12:20-12:40 | <span class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></span> Lucas Larroque, Quentin Manière |
 | **12:40-14:10** | Lunch <big><big>🥦</big></big> |
