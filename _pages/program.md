@@ -50,19 +50,19 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Christoph Jung, Vincent Michielini, Filip Murlak |
 | 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Jan Bednarczyk, Mikołaj Swoboda 🎙️ |
 | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
-| 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 
+| 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman 🎙️, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **15:00-15:20** | Poster Announcements |
-| | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi 🎙️ |
+| | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima 🎙️, Marco Console, Laura Papi 🎙️ |
 | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve 🎙️ |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | **15:20-16:00** | **Learning** chaired by Rafael Peñaloza Nyssen 📣 |
 | 15:20-15:40 | <span class=talk>Reaching for the Stars in ℰℒ Concept Learning</span> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
-| 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann, Carsten Lutz |
+| 15:40-16:00 | <span class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</span> Maurice Funk, Simon Hosemann 🎙️, Carsten Lutz |
 | **16:00-16:30** | Coffee break <big><big>☕</big></big> |
 | **16:30-17:30** | **Poster & Demo Session** |
-| | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi 🎙️ |
+| | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima 🎙️, Marco Console, Laura Papi 🎙️ |
 | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov 🎙️ |  
 | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
 | | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová | 
