@@ -34,7 +34,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | Time       | Event                          |
 | :---------: | :----------------------------- |
 | **9:00-9:05**  | Welcome to DL 2026!            |
-| **9:05-10:00** | **Invited Speaker: Jean Christoph Jung** |
+| **9:05-10:00** | <a href="https://dl-2026.github.io/#invited-speakers">Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
 | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ |
@@ -47,7 +47,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano 🎙️, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
 | **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
-| 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
+| 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Christoph Jung, Vincent Michielini, Filip Murlak |
 | 13:50-14:10 | <span class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</span> Bartosz Bednarczyk, Mikołaj Swoboda 🎙️ |
 | 14:10-14:30 | <span class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</span> Michał Henne, Barbara Morawska, Paweł Parys |
 | 14:30-14:50 | <span class=talk>Tree Description Dependencies</span> David Toman, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 

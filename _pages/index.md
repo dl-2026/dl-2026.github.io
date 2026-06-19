@@ -191,10 +191,10 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
                 <h3 class="speaker-name">Jean Christoph Jung</h3>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dortmund, Germany</p>
                 <div class="speaker-title">Sponsored by ScaDS.AI</div>
-                <!--<div class="speaker-talk">
-                    <p class="talk-title">Quantum Algorithms for Real-World Problems</p>
-                    <p>Developing quantum computing solutions for optimization challenges in logistics, finance, and material science.</p>
-                </div>-->
+                <div class="speaker-talk">
+                    <p class="talk-title">Computing Interpolants in Description Logics</p>
+                    <p style="font-size:smaller;">Interpolants have a wide range of applications in description logics. For example, they serve as explanations for given complicated entailments, they can be used as explicit definitions for concepts in ontology construction, and they can be regarded as fitting concepts in description logic concept learning. In all these applications, the actual interpolants are needed and hence we need methods to compute them. While the computation problem has been thoroughly studied for description logics enjoying the Craig Interpolation Property, the corresponding theory for logics lacking that property is still underdeveloped. In this talk, I will report on first steps towards a better understanding of the computation of interpolants in such cases.</p>
+                </div>
             </div>
         </div> 
     </section>
