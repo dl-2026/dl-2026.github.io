@@ -39,12 +39,12 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **10:30-11:10** | Poster & Demo Announcements |
 | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ |
 | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
-| | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová |  
-| | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
+| | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová |  
+| | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov 🎙️ <!-- Breather  <big><big>🧘</big></big> --> | 
 | **11:20-12:00** | **DL in Practice** chaired by Patrick Koopmann 📣 |
 | 11:20-11:40 | <span class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</span> Momen Hassan, Uli Sattler  |
-| 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
+| 11:40-12:00 | <span class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></span> Albulen Pano 🎙️, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
 | **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
 | 13:30-13:50 | <span class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></span> Yazmin Ibanez-Garcia, Jean Jung, Vincent Michielini, Filip Murlak |
@@ -54,7 +54,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **15:00-15:20** | Poster Announcements |
 | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi 🎙️ |
 | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
-| | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve |
+| | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve 🎙️ |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | **15:20-16:00** | **Learning** chaired by Rafael Peñaloza 📣 |
@@ -65,11 +65,11 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <span class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></span> Gianluca Cima, Marco Console, Laura Papi 🎙️ |
 | | <span class=posterdemo>DeLTA: Description Logic–based Text Annotation</span> Ildar Baimuratov 🎙️ |  
 | | <span class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</span> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
-| | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová, Jakub Kloc, Martin Homola, Júlia Pukancová | 
+| | <span class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></span> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová | 
 | | <span class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</span> Riccardo Sieve 🎙️ |
 | | <span class=posterdemo>Towards Visual Decision Support in Interactive Repair</span> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <span class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</span> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
-| | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová, Janka Boborová, Júlia Pukancová, Jakub Kloc, Martin Homola |
+| | <span class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</span> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <span class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
 | | <span class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></span> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza 🎙️ | 
 | ----------- | ------------------------------------- |
@@ -100,7 +100,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:15-10:10** | **Invited Speaker: Stefan Borgwardt** |
+| **9:15-10:10** | <a href="https://dl-2026.github.io/#invited-speakers">Explaining Description Logic Reasoning</a> **Invited Speaker: Stefan Borgwardt** |
 | **10:10-10:40** | Coffee break <big><big>☕</big></big> |
 | **10:40-12:30** | **Explanations** chaired by Christian Alrabbaa 📣 |
 | 10:40-11:00 | <span class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</span> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova 🎙️  |

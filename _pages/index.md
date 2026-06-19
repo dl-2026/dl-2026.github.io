@@ -177,10 +177,10 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
                 <h3 class="speaker-name">Stefan Borgwardt</h3>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Dresden, Germany</p>
                 <div class="speaker-title">Sponsored by CPEC</div>
-               <!--<div class="speaker-talk">
-                    <!--<p class="talk-title">CRISPR and Beyond: Gene Editing Frontiers</p>
-                    <p>(sponsored by CPEC)</p>
-                </div>-->
+                <div class="speaker-talk">
+                    <p class="talk-title">Explaining Description Logic Reasoning</p>
+                    <p style="font-size:smaller;">While logic-based reasoning is explainable in theory, understanding the explanations often requires expert training and a lot of time. For explaining consequences entailed by description logic ontologies, the main form of explanations are justifications that pinpoint the axioms responsible for an entailment. However, with large justifications or expressive logics, it can be hard to see why the entailment follows from the justification. In recent years, we have studied approaches for computing proofs, which consist of simple steps for explaining an entailment, but may contain many such steps. We investigated different methods of computing proofs that are optimized according to some quality criteria, such as the size or depth of the proof. In addition to evaluating these ideas on existing description logic ontologies, we have conducted a series of user studies to find out how to best present proofs to users of description logic ontologies. Moreover, we implemented our algorithms in the Protégé plug-in Evee, which can not only explain why an entailment holds, but also why an expected entailment does not follow from the ontology.</p>
+                </div>
             </div>
         </div> 
         
