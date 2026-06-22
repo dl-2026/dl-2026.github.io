@@ -109,7 +109,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 11:50-12:10 | <span class=talk>LPX-AbPoint: Abduction and Pinpointing for Explaining Link Predictions on DL Knowledge Graphs</span> Roberto Barile 🎙️, Claudia d'Amato, Nicola Fanizzi |
 | 12:10-12:30 | <span class=talk>Introducing Prism Embeddings: A New Family of Geometric Ontology Embeddings</span> Giuseppe Federico, Mena Leemhuis, Oliver Kutz |
 | **12:30-14:00** | Lunch <big><big>🧀</big></big> |
-| **14:00-15:00** | **Temporal Extensions** |
+| **14:00-15:00** | **Temporal Extensions** chaired by Andrea Mazzullo 📣 |
 | 14:00-14:20 | <span class=talk>Temporal ℰℒ and Equations over Sets of Integers</span> <big><big>🏆</big></big> Anton Gnatenko 🎙️, Roman Kontchakov |
 | 14:20-14:40 | <span class=talk>Towards Monitoring of Patients with Bipolar Disorder<!--(Extended Abstract)--></span> Greta Adamo, Roman Kontchakov, Davide Lanti, Kajsa A. Pedersen, Andrey Rivkin  |
 | 14:40-15:00 | <span class=talk>Finding New Boxes for the Diamonds: On the Behavior of Convex Modal Operators for Temporal Description Logics</span> Stefan Borgwardt 🎙️, Alisa Kovtunova  <!-- Breather  <big><big>🧘</big></big> --> | 
