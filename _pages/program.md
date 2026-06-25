@@ -22,7 +22,6 @@ a:hover {
 a:visited {
   color: #494d4e;
   text-decoration: none !important;
-  outline: none;
 }
 
 a:active {
@@ -45,6 +44,18 @@ a:active {
         background:#e6f4ef;
         padding:5px 10px;
         border-radius:12px; 
+}
+
+talk:focus{
+outline: none;
+}
+
+poster:focus{
+outline: none;
+}
+
+posterdemo:focus{
+outline: none;
 }
 
 </style>
