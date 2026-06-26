@@ -138,7 +138,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 12:10-12:30 | <a title="Click to see the abstract" href="/accepted#id32" class=talk>Introducing Prism Embeddings: A New Family of Geometric Ontology Embeddings</a> Giuseppe Federico, Mena Leemhuis, Oliver Kutz |
 | **12:30-14:00** | Lunch <big><big>🧀</big></big> |
 | **14:00-15:00** | **Temporal Extensions** chaired by Andrea Mazzullo 📣 |
-| 14:00-14:20 | <a title="Click to see the abstract" href="/accepted#id23" class=talk>Temporal ℰℒ and Equations over Sets of Integers</a> <big><big>🏆</big></big> Anton Gnatenko 🎙️, Roman Kontchakov |
+| 14:00-14:20 | <a title="Click to see the abstract" href="/accepted#id23" class=talk>Temporal ℰℒ and Equations over Sets of Integers <big><big>🏆</big></big></a>  Anton Gnatenko 🎙️, Roman Kontchakov |
 | 14:20-14:40 | <a title="Click to see the abstract" href="/accepted#id27" class=talk>Towards Monitoring of Patients with Bipolar Disorder<!--(Extended Abstract)--></a> Greta Adamo, Roman Kontchakov, Davide Lanti, Kajsa A. Pedersen 🎙️, Andrey Rivkin  |
 | 14:40-15:00 | <a title="Click to see the abstract" href="/accepted#id44" class=talk>Finding New Boxes for the Diamonds: On the Behavior of Convex Modal Operators for Temporal Description Logics</a> Stefan Borgwardt 🎙️, Alisa Kovtunova  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **15:10-16:10** | **All about DL-Lite** |
