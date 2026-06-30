@@ -107,7 +107,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** |
+| **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
 | 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Rafael Peñaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
