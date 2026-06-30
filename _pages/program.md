@@ -53,6 +53,12 @@ a:active {
         border-radius:12px; 
 }
 
+    .invited {
+        background:#feeeff;
+        padding:5px 10px;
+        border-radius:12px; 
+}
+
 </style>
 
 Break periods and lunch hours vary by day and are not consistent. Please check the times for each date.
@@ -62,7 +68,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | Time       | Event                          |
 | :---------: | :----------------------------- |
 | **9:00-9:05**  | Welcome to DL 2026!            |
-| **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers">Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** |
+| **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
 | | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ |
@@ -107,7 +113,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers">Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
+| **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
 | 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Rafael Peñaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
@@ -128,7 +134,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:15-10:10** | <a title="Click to see the abstract" href="/#invited-speakers">Explaining Description Logic Reasoning</a> **Invited Speaker: Stefan Borgwardt** |
+| **9:15-10:10** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Explaining Description Logic Reasoning</a> **Invited Speaker: Stefan Borgwardt** |
 | **10:10-10:40** | Coffee break <big><big>☕</big></big> |
 | **10:40-12:30** | **Explanations** chaired by Christian Alrabbaa 📣 |
 | 10:40-11:00 | <a title="Click to see the abstract" href="/accepted#id29" class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</a> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova 🎙️  |
