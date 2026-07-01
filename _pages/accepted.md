@@ -79,7 +79,7 @@ Martin Homola. </i> 🔍 </summary>
 <div id="id7"> Abstract: Standpoint extensions of KR formalisms have been recently introduced to incorporate multi-perspective modelling and reasoning capabilities. In such modal extensions, the integration of conceptual modelling and perspective annotations can be more or less tight, with monodic standpoint extensions striking a good balance as they enable advanced modelling while preserving good reasoning complexities. This extended abstract reports on a paper published in KR'25 where we consider the very expressive description logics SHOIQBs and SROIQBs, which subsume the popular W3C-standardized OWL 1 and OWL 2 ontology languages, and show that they allow for monodic standpoint extensions without any increase of standard reasoning complexity. We do this by first proving the result for the extension of C2 - the counting two-variable fragment of first-order logic - by monodic standpoints and then by showing how to handle role chain axioms. At the core of our treatise is a polytime translation of formulae in said formalism into standpoint-free C2, requiring elaborate model-theoretic arguments. By virtue of this translation, the NExpTime-complete complexity of checking satisfiability in C2 carries over to our formalism. As our formalism subsumes monodic S5 over C2, our result also significantly advances the state of the art in research on first-order modal logics. We prove that NExpTime-hardness already occurs in much less expressive DLs as long as they feature both nominals and monodic standpoints. We also show that, with inverses, functionality, and nominals present,  minimally lifting the monodicity restriction leads to undecidability.</div>
 </details>
 
-<details><summary><span class=posterdemo>Poster & Demo</span> DeLTA: Description Logic–based Text Annotation.
+<details><summary><span class=posterdemo>Poster & Demo</span> DeLTA: A Description Logic–Based Annotation Schema for Constructing Expressive OWL DL Axioms from Text.
 <i>Ildar Baimuratov</i> 🔍 </summary>  
 <div id="id8"> Abstract: Enriching an ontology with complex axioms enables the inference of new knowledge, contextualized querying, and consistency checking, but it is error-prone and time-consuming. A further challenge is that domain experts are rarely ontology engineers, while ontology engineers often lack sufficient domain knowledge. This "knowledge acquisition bottleneck" has led to a prevalence of inexpressive ontologies, highlighting the need to facilitate the acquisition of expressive description logic axioms. In this work, we propose a domain-independent text annotation schema that maps directly to OWL DL syntax, enabling the algorithmic generation of expressive axioms from the annotations. Annotated text allows domain experts to participate in the loop, ensuring the trustworthiness of the resulting knowledge base. Additionally, the annotation process can later be automated using NLP once a sufficient number of annotations have been completed. We demonstrate the applicability and scalability of the approach through two distinct use cases: building requirements and scientific claims.</div>
 </details>
@@ -92,13 +92,13 @@ Grant Weddell</i> 🔍 </summary>
 
 <details><summary><span class=talk>Talk</span> Deontic Defeasible Description Logic.
 <i>Giovanni Casini, 
-Rafael Penaloza Nyssen,
 Thomas Meyer, 
+Rafael Peñaloza Nyssen,
 Leendert van der Torre</i> 🔍 </summary>  
 <div id="id10"> Abstract: We introduce an extension of Description Logics (DL), appropriate for modelling and reasoning about deontic notions. DLs represent a family of logical systems, most of them corresponding to a specific fragment of first-order logic, developed to reason about taxonomies and ontologies. Starting from defeasible ALC, an extension of the DL ALC which allows us to model and reason about defeasible information (rules that admit exceptions), we show how to modify the semantics in order to also represent and manage conditional obligations and permissions, and we present the correspondent, and easily implementable, decision procedures. Also, we define a semantics combining reasoning about expectations and reasoning about norms, pairing it with corresponding decision procedures.</div>
 </details>   
 
-<details><summary><span class=talk>Talk</span> Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime.
+<details><summary><span class=talk>Talk</span> Subsumption in ℱℒ<sub>⊥reg</sub> with TBoxes Is in ExpTime.
 <i>Michał Henne, 
 Barbara Morawska, 
 Paweł Parys</i> 🔍 </summary>  
@@ -202,10 +202,10 @@ Ekaterina Kubyshkina</i> 🔍 </summary>
 </details>
 
 <details><summary><span class=talk>Talk</span> Towards Monitoring of Patients with Bipolar Disorder (Extended Abstract).
-<i>Greta Adamo, 
+<i>Kajsa Pedersen,
+Greta Adamo, 
 Roman Kontchakov, 
 Davide Lanti, 
-Kajsa A. Pedersen, 
 Andrey Rivkin</i> 🔍 </summary>  
 <div id="id27"> Abstract: Bipolar disorder is a condition characterised by episodes of extreme mood fluctuation. Effective treatment typically includes psychoeducation, which aims to equip patients with the knowledge needed to make informed decisions that can influence the course of their illness. Key to this process is the ability to monitor the patient’s behaviour (both by patients themselves and involved healthcare specialists) in order to recognise early signs of future episodes. To support this monitoring task, we propose a framework grounded in medical ontologies and metric interval temporal logic (MITL). The framework enables monitoring of patient behaviour and the identification of emerging episodes based on behavioral patterns and established clinical guidelines. This paper outlines the formal foundations of the framework and describes future steps towards its adoption in practice.</div>
 </details>  
@@ -225,7 +225,7 @@ Alisa Kovtunova</i> 🔍 </summary>
 </details>  
 
 <details><summary><span class=talk>Talk</span> Baby Steps Towards Finite Satisfiability For LoopPDL.
-<i>Bartosz Bednarczyk, 
+<i>Bartosz Jan Bednarczyk, 
 Mikołaj Swoboda</i> 🔍 </summary>  
 <div id="id30"> Abstract: Propositional Dynamic Logic (PDL), known in the Description Logic community as ALCreg, is a well-established modal logic of programs. To increase its expressive power, several extensions have been proposed. One such extension is the loop operator, which expresses that an element can reach itself via a path defined by a regular expression. Although the satisfiability problem for LoopPDL is well understood, the decidability of its finite satisfiability problem has remained open for over 40 years. Our ongoing work aims to resolve this question. While a full solution is still pending, we have obtained some results of independent interest. In this workshop paper, we present a simplified version of our approach, applied to a logic with loops restricted to atomic roles and their transitive closures. </div>
 </details>  
@@ -283,9 +283,9 @@ Quentin Manière</i> 🔍 </summary>
 <div id="id39"> Abstract: This extended abstract summarizes our recent contribution, currently under double-blind review at IJCAI'26, in which we ask: Within a class of existential rules that supports decidable query entailment, do the usual abstract classes become concrete? We answer in the negative for classes based upon the termination of all classical chase variants and for the bts class. This explains the necessity of diverse, class-specific techniques for proving chase termination, as query entailment offers no systematic tool for this purpose.</div>
 </details>  
 
-<details><summary><span class=talk>Talk</span> Revisiting Conjunctive Query Entailment for S (Extended Abstract).
-<i>Yazmin Ibanez-Garcia, 
-Jean Jung, 
+<details><summary><span class=talk>Talk</span> Revisiting Conjunctive Query Entailment for 𝒮 (Extended Abstract).
+<i>Yazmín Ibáñez-García, 
+Jean Christoph Jung, 
 Vincent Michielini, 
 Filip Murlak</i> 🔍 </summary>  
 <div id="id40"> Abstract: We clarify the complexity of answering unions of conjunctive queries over knowledge bases formulated in the description logic S, the extension of ALC with transitive roles. Contrary to what existing partial results suggested, we show that the problem is in fact 2ExpTime-complete; hardness already holds in the presence of two transitive roles and for Boolean conjunctive queries. We complement this result by showing that the problem remains in coNExpTime when the input query is rooted or is restricted to use at most one transitive role (but may use arbitrarily many non-transitive roles).</div>
@@ -303,7 +303,7 @@ Anni-Yasmin Turhan</i> 🔍 </summary>
 <i>Bruno F. Lourenço, 
 Hesham Morgan, 
 Ana Ozaki, 
-Aleksander Pavlovic, 
+Aleksandar Pavlović, 
 Emanuel Sallinger</i> 🔍 </summary>  
 <div id="id43"> Abstract: Knowledge base (KB) embeddings aim at combining the capability of classical knowledge graph embeddings to generalize the information present in facts, the ABox, with conceptual knowledge represented in an ontology language, the TBox. Several authors have recently explored the idea of mapping concepts to convex regions in a vector space. This is useful to represent hierarchies, typically present in TBoxes, since more general concepts can be mapped to larger regions, containing those regions associated with more specific concepts. However, the power of convexity is rarely leveraged during the actual learning tasks. Here, we introduce BoxLitE, a KB embedding model for DL-Lite that allows for convex optimization. We show that for any satisfiable DL-Lite KB, there is a BoxLitE embedding that is a weakly faithful model. As a proof of concept, we show how to formulate the KB embedding task as a convex optimization problem and how to obtain embeddings with such desirable faithfulness properties.</div>
 </details>  

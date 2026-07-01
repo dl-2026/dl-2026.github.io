@@ -75,21 +75,21 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <a title="Click to see the abstract" href="/accepted#id21" class=posterdemo>Towards Visual Decision Support in Interactive Repair</a> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <a title="Click to see the abstract" href="/accepted#id36" class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></a> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | <a title="Click to see the abstract" href="/accepted#id6" class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</a> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
-| | <a title="Click to see the abstract" href="/accepted#id8" class=posterdemo>DeLTA: Description Logic–based Text Annotation</a> Ildar Baimuratov 🎙️ <!-- Breather  <big><big>🧘</big></big> --> | 
+| | <a title="Click to see the abstract" href="/accepted#id8" class=posterdemo>DeLTA: A Description Logic–Based Annotation Schema for Constructing Expressive OWL DL Axioms from Text</a> Ildar Baimuratov 🎙️ <!-- Breather  <big><big>🧘</big></big> --> | 
 | **11:20-12:00** | **DL in Practice** chaired by Patrick Koopmann 📣 |
 | 11:20-11:40 | <a title="Click to see the abstract" href="/accepted#id12" class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</a> Momen Hassan, Uli Sattler  |
 | 11:40-12:00 | <a title="Click to see the abstract" href="/accepted#id24" class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></a> Albulen Pano 🎙️, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
 | **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
-| 13:30-13:50 | <a title="Click to see the abstract" href="/accepted#id40" class=talk>Revisiting Conjunctive Query Entailment for S<!--(Extended Abstract)--></a> Yazmin Ibanez-Garcia, Jean Christoph Jung, Vincent Michielini 🎙️, Filip Murlak |
+| 13:30-13:50 | <a title="Click to see the abstract" href="/accepted#id40" class=talk>Revisiting Conjunctive Query Entailment for 𝒮<!--(Extended Abstract)--></a> Yazmín Ibáñez-García, Jean Christoph Jung, Vincent Michielini 🎙️, Filip Murlak |
 | 13:50-14:10 | <a title="Click to see the abstract" href="/accepted#id30" class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</a> Bartosz Jan Bednarczyk, Mikołaj Swoboda 🎙️ |
-| 14:10-14:30 | <a title="Click to see the abstract" href="/accepted#id11" class=talk>Subsumption for ℱℒ<sub>⊥reg</sub> Is in ExpTime</a> Michał Henne 🎙️, Barbara Morawska, Paweł Parys |
+| 14:10-14:30 | <a title="Click to see the abstract" href="/accepted#id11" class=talk>Subsumption in ℱℒ<sub>⊥reg</sub> with TBoxes Is in ExpTime</a> Michał Henne 🎙️, Barbara Morawska, Paweł Parys |
 | 14:30-14:50 | <a title="Click to see the abstract" href="/accepted#id9" class=talk>Tree Description Dependencies</a> David Toman 🎙️, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **15:00-15:20** | Poster Announcements |
 | | <a title="Click to see the abstract" href="/accepted#id20" class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></a> Gianluca Cima 🎙️, Marco Console, Laura Papi 🎙️ |
 | | <a title="Click to see the abstract" href="/accepted#id31" class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</a> Mario Alviano, Laura Giordano, Daniele Theseider Dupré |
 | | <a title="Click to see the abstract" href="/accepted#id5" class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</a> Riccardo Sieve 🎙️ |
-| | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
+| | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger |
 | | <a title="Click to see the abstract" href="/accepted#id26" class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</a> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | **15:20-16:00** | **Learning** chaired by Rafael Peñaloza Nyssen 📣 |
 | 15:20-15:40 | <a title="Click to see the abstract" href="/accepted#id19" class=talk>Reaching for the Stars in ℰℒ Concept Learning</a> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
@@ -116,7 +116,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** |
-| 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Rafael Peñaloza Nyssen 🎙️, Thomas Meyer, Leendert van der Torre |
+| 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Thomas Meyer, Rafael Peñaloza Nyssen 🎙️, Leendert van der Torre |
 | 10:50-11:10 | <a title="Click to see the abstract" href="/accepted#id18" class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</a> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza Nyssen  |
 | 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | 11:30-11:50 | <a title="Click to see the abstract" href="/accepted#id22" class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></a> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
@@ -145,7 +145,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **12:30-14:00** | Lunch <big><big>🧀</big></big> |
 | **14:00-15:00** | **Temporal Extensions** chaired by Andrea Mazzullo 📣 |
 | 14:00-14:20 | <a title="Click to see the abstract" href="/accepted#id23" class=talk>Temporal ℰℒ and Equations over Sets of Integers <big><big>🏆</big></big></a>  Anton Gnatenko 🎙️, Roman Kontchakov |
-| 14:20-14:40 | <a title="Click to see the abstract" href="/accepted#id27" class=talk>Towards Monitoring of Patients with Bipolar Disorder<!--(Extended Abstract)--></a> Greta Adamo, Roman Kontchakov, Davide Lanti, Kajsa A. Pedersen 🎙️, Andrey Rivkin  |
+| 14:20-14:40 | <a title="Click to see the abstract" href="/accepted#id27" class=talk>Towards Monitoring of Patients with Bipolar Disorder<!--(Extended Abstract)--></a> Kajsa Pedersen 🎙️, Greta Adamo, Roman Kontchakov, Davide Lanti, Andrey Rivkin  |
 | 14:40-15:00 | <a title="Click to see the abstract" href="/accepted#id44" class=talk>Finding New Boxes for the Diamonds: On the Behavior of Convex Modal Operators for Temporal Description Logics</a> Stefan Borgwardt 🎙️, Alisa Kovtunova  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **15:10-16:10** | **All about DL-Lite** chaired by Davide Lanti 📣 |
 | 15:10-15:30 | <a title="Click to see the abstract" href="/accepted#id28" class=talk>Coherence Update Semantics for Horn DL-Lite through Stratified Datalog<sup>¬</sup> Rewriting</a> Stefan Borgwardt, Duy Nhu 🎙️ |
