@@ -1,3 +1,9 @@
-.site-title {
-    min-width: 40vw;
+.greedy-nav {
+  width: 100%;
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.site-logo img {
+  width: 50px;
 }

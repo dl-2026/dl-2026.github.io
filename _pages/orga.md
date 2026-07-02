@@ -9,6 +9,77 @@ header:
 excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
 
+<style>
+    .container {
+        margin: 0 auto;
+        padding-left: 30px;
+        padding-right: 30px;
+        border-radius: 8px;
+    }
+    
+    .two-column-list {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+    
+    .person-item {
+        padding: 5px;
+        border-bottom: 1px solid #eee;
+    }
+    
+    .details {
+        font-size: smaller;
+    }
+    
+    @media (max-width: 768px) {
+        .two-column-list {
+            grid-template-columns: 1fr;
+        }
+        
+        body {
+            margin: 10px;
+        }
+    }
+    
+    
+    .pc-stats {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 30px;
+        margin-bottom: 30px;
+    }
+    
+    .stat-box {
+        background: white;
+        padding: 25px;
+        border-radius: 10px;
+        overflow: hidden;
+        text-align: center;
+        min-width: 180px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .stat-box:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+    
+    .stat-number {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #9c3913;
+        margin-bottom: 10px;
+    }
+    
+    .stat-label {
+        font-weight: 500;
+    }
+</style>
+
+
 <h4>General Co-Chairs</h4>
 <a href="https://userweb.fct.unl.pt/~mkn/">Matthias Knorr</a>, Universidade Nova de Lisboa, Portugal\\
 <a href="https://ijv.ovh/">Ivan Varzinczak</a>, Université Sorbonne Paris Nord, France
@@ -23,84 +94,49 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 
 ---
 ## Session Chairs
-TBA
+Our Session Chairs are respected colleagues who volunteer their time and energy to keep our workshop running smoothly. We are truly grateful for their commitment, expertise, and quick thinking.
+
+<div class="two-column-list">
+    <div class="person-item">
+        <div class="name">Christian Alrabbaa</div>
+        <div class="details">TU Dresden, Germany</div>
+    </div>
+    
+    <div class="person-item">
+        <div class="name">Bartosz Jan Bednarczyk</div>
+        <div class="details">TU Wien & University of Wrocław, Austria & Poland</div>
+    </div>
+    
+    <div class="person-item">
+        <div class="name">Patrick Koopmann</div>
+        <div class="details">Vrije Universiteit Amsterdam, the Netherlands</div>
+    </div>
+
+    <div class="person-item">
+        <div class="name">Davide Lanti</div>
+        <div class="details">Free University of Bozen-Bolzano, Italy</div>
+    </div>
+        
+    <div class="person-item">
+        <div class="name">Andrea Mazzullo</div>
+        <div class="details">Free University of Bozen-Bolzano, Italy</div>
+    </div>
+
+    <div class="person-item">
+        <div class="name">Rafael Peñaloza</div>
+        <div class="details">University of Milano-Bicocca, Italy</div>
+    </div>
+
+    <div class="person-item">
+        <div class="name">Nico Potyka</div>
+        <div class="details">Cardiff University, UK</div>
+    </div>
+    
+</div>
 
 ## Program Committee Members
 Our Program Committee consists of distinguished researchers who ensure the highest quality standards for our workshop. We extend our gratitude to all committee members for their dedication and expertise.
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DL 2026 PC Members</title>
-    <style>
-        .container {
-            margin: 0 auto;
-            padding-left: 30px;
-            padding-right: 30px;
-            border-radius: 8px;
-        }
-        
-        .two-column-list {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
-        }
-        
-        .person-item {
-            padding: 5px;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .details {
-            font-size: smaller;
-        }
-        
-        @media (max-width: 768px) {
-            .two-column-list {
-                grid-template-columns: 1fr;
-            }
-            
-            body {
-                margin: 10px;
-            }
-        }
-        
-        
-        .pc-stats {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 30px;
-            margin-bottom: 30px;
-        }
-        
-        .stat-box {
-            background: white;
-            padding: 25px;
-            border-radius: 10px;
-            overflow: hidden;
-            text-align: center;
-            min-width: 180px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        
-        .stat-box:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
-        }
-        
-        .stat-number {
-            font-size: 2.5rem;
-            font-weight: 700;
-            color: #9c3913;
-            margin-bottom: 10px;
-        }
-        
-        .stat-label {
-            font-weight: 500;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <div class="pc-stats">
@@ -134,7 +170,7 @@ Our Program Committee consists of distinguished researchers who ensure the highe
             </div>
             
             <div class="person-item">
-                <div class="name">Bartosz Bednarczyk</div>
+                <div class="name">Bartosz Jan Bednarczyk</div>
                 <div class="details">TU Wien & University of Wrocław, Austria & Poland</div>
             </div>
             
