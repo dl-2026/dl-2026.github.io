@@ -121,8 +121,8 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph  |
 | 11:30-11:50 | <a title="Click to see the abstract" href="/accepted#id22" class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></a> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **12:00-12:40** | **"To Infinity and Beyond!"** chaired by Bartosz Jan Bednarczyk 📣 |
-| 12:00-12:20 | <a title="Click to see the abstract" href="/accepted#id13" class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></a> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini |
-| 12:20-12:40 | <a title="Click to see the abstract" href="/accepted#id39" class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></a> Lucas Larroque, Quentin Manière |
+| 12:00-12:20 | <a title="Click to see the abstract" href="/accepted#id13" class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></a> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini 🎙️ |
+| 12:20-12:40 | <a title="Click to see the abstract" href="/accepted#id39" class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></a> Lucas Larroque 🎙️, Quentin Manière |
 | **12:40-14:10** | Lunch <big><big>🥦</big></big> |
 | **14:10-17:00** | **Special Session featuring Moshe Vardi, Franz Baader and Magdalena Ortiz** |
 | **15:30-16:00** | Coffee break <big><big>☕</big></big> |
@@ -150,7 +150,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **15:10-16:10** | **All about DL-Lite** chaired by Davide Lanti 📣 |
 | 15:10-15:30 | <a title="Click to see the abstract" href="/accepted#id28" class=talk>Coherence Update Semantics for Horn DL-Lite through Stratified Datalog<sup>¬</sup> Rewriting</a> Stefan Borgwardt, Duy Nhu 🎙️ |
 | 15:30-15:50 | <a title="Click to see the abstract" href="/accepted#id35" class=talk>A Horn Extension of DL-Lite with NL data complexity</a> Janos Arpasi 🎙️, Bartosz Jan Bednarczyk, Magdalena Ortiz |
-| 15:50-16:10 | <a title="Click to see the abstract" href="/accepted#id17" class=talk>How Hard is it to Decide if a Fact is Relevant to a Query?<!--(Extended Abstract)--></a> Meghyn Bienvenu, Diego Figueira, Pierre Lafourcade |
+| 15:50-16:10 | <a title="Click to see the abstract" href="/accepted#id17" class=talk>How Hard is it to Decide if a Fact is Relevant to a Query?<!--(Extended Abstract)--></a> Meghyn Bienvenu, Diego Figueira, Pierre Lafourcade 🎙️ |
 | **16:10-16:30** | Espresso break <big><big>☕</big></big> |
 | **16:30-17:30** | **Business Meeting** |
 | ----------- | ------------------------------------- |
