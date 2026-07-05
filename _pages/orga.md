@@ -132,6 +132,16 @@ Our Session Chairs are respected colleagues who volunteer their time and energy 
         <div class="details">Cardiff University, UK</div>
     </div>
     
+    <div class="person-item">
+        <div class="name">Sebastian Rudolph</div>
+        <div class="details">TU Dresden, Germany</div>
+    </div>
+    
+    <div class="person-item">
+        <div class="name">Ivan Varzinczak</div>
+        <div class="details">Université Sorbonne Paris Nord, France</div>
+    </div>
+    
 </div>
 
 ## Program Committee Members

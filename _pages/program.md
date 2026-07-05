@@ -80,7 +80,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 11:20-11:40 | <a title="Click to see the abstract" href="/accepted#id12" class=talk>QBF Reasoning for Concept Satisfiability via an Optimised Reduction From K</a> Momen Hassan 🎙️, Uli Sattler  |
 | 11:40-12:00 | <a title="Click to see the abstract" href="/accepted#id24" class=talk>ontopEO: VKGs over Earth Observation Data<!--(Extended Abstract)--></a> Albulen Pano 🎙️, Davide Lanti, Diego Calvanese,  Piero Campalani, Alexander Jacob, Alessandro Mosca  |
 | **12:00-13:30** | Lunch <big><big>🍕</big></big> |
-| **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** |
+| **13:30-14:50** | **Taming the Structure. Transitive Closure, Regular Expressions, Tree Descriptions** chaired by Sebastian Rudolph 📣 |
 | 13:30-13:50 | <a title="Click to see the abstract" href="/accepted#id40" class=talk>Revisiting Conjunctive Query Entailment for 𝒮<!--(Extended Abstract)--></a> Yazmín Ibáñez-García, Jean Christoph Jung, Vincent Michielini 🎙️, Filip Murlak |
 | 13:50-14:10 | <a title="Click to see the abstract" href="/accepted#id30" class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</a> Bartosz Jan Bednarczyk, Mikołaj Swoboda 🎙️ |
 | 14:10-14:30 | <a title="Click to see the abstract" href="/accepted#id11" class=talk>Subsumption in ℱℒ<sub>⊥reg</sub> with TBoxes Is in ExpTime</a> Michał Henne 🎙️, Barbara Morawska, Paweł Parys |
@@ -92,7 +92,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger |
 | | <a title="Click to see the abstract" href="/accepted#id26" class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</a> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | **15:20-16:00** | **Learning** chaired by Rafael Peñaloza Nyssen 📣 |
-| 15:20-15:40 | <a title="Click to see the abstract" href="/accepted#id19" class=talk>Reaching for the Stars in ℰℒ Concept Learning</a> Bente Gortworst 🎙️ , Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
+| 15:20-15:40 | <a title="Click to see the abstract" href="/accepted#id19" class=talk>Reaching for the Stars in ℰℒ Concept Learning</a> Bente Gortworst 🎙️, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | 15:40-16:00 | <a title="Click to see the abstract" href="/accepted#id25" class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</a> Maurice Funk, Simon Hosemann 🎙️, Carsten Lutz |
 | **16:00-16:30** | Coffee break <big><big>☕</big></big> |
 | **16:30-17:30** | **Poster & Demo Session** |
@@ -115,7 +115,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | :---------: | :----------------------------- |
 | **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
-| **10:30-11:50** | **Conflicts and Exceptions** |
+| **10:30-11:50** | **Conflicts and Exceptions** chaired by Ivan Varzinczak 📣 |
 | 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Thomas Meyer, Rafael Peñaloza Nyssen 🎙️, Leendert van der Torre |
 | 10:50-11:10 | <a title="Click to see the abstract" href="/accepted#id18" class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</a> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza Nyssen  |
 | 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph  |
