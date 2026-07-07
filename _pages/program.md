@@ -68,7 +68,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | Time       | Event                          |
 | :---------: | :----------------------------- |
 | **9:00-9:05**  | Welcome to DL 2026!            |
-| **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** |
+| **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** chaired by Matthias Knorr 📣 |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
 | | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ |
