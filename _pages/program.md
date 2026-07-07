@@ -134,7 +134,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 
 | Time       | Event                          |
 | :---------: | :----------------------------- |
-| **9:15-10:10** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Explaining Description Logic Reasoning</a> **Invited Speaker: Stefan Borgwardt** |
+| **9:15-10:10** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Explaining Description Logic Reasoning</a> **Invited Speaker: Stefan Borgwardt** chaired by Barış Sertkaya 📣 |
 | **10:10-10:40** | Coffee break <big><big>☕</big></big> |
 | **10:40-12:30** | **Explanations** chaired by Christian Alrabbaa 📣 |
 | 10:40-11:00 | <a title="Click to see the abstract" href="/accepted#id29" class=talk>In the Heart of the Beholder: User-Tailored Explanations for Description Logics</a> Stefan Borgwardt, Anke Hirsch, Nina Knieriemen, Alisa Kovtunova 🎙️  |
