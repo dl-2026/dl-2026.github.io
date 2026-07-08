@@ -118,7 +118,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **10:30-11:50** | **Conflicts and Exceptions** chaired by Ivan Varzinczak 📣 |
 | 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Thomas Meyer, Rafael Peñaloza Nyssen 🎙️, Leendert van der Torre |
 | 10:50-11:10 | <a title="Click to see the abstract" href="/accepted#id18" class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</a> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza Nyssen  |
-| 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph  |
+| 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph 🎙️ |
 | 11:30-11:50 | <a title="Click to see the abstract" href="/accepted#id22" class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></a> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
 | **12:00-12:40** | **"To Infinity and Beyond!"** chaired by Bartosz Jan Bednarczyk 📣 |
 | 12:00-12:20 | <a title="Click to see the abstract" href="/accepted#id13" class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></a> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini 🎙️ |
