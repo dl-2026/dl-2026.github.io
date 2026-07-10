@@ -1,6 +1,6 @@
 ---
 permalink: /venue/
-title: "Venue"
+title: "Logistics"
 layout: splash
 header:
   overlay_image: /assets/images/big.jpg
@@ -9,6 +9,9 @@ header:
   
 excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 ---
+
+### Workshop Venue
+-----
 
 DL 2026 will be held at Edifício II - ISCTE, Avenida das Forças Armadas, 1649-026 Lisboa, Portugal.  
 
@@ -20,7 +23,20 @@ See details:
 ### DL & NMR Joint Dinner
 -----
 
-The DL & NMR Joint Dinner on July 18 is held in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">*Portugália*</a>. The restaurant is located in Av. Almirante Reis 117, 1150-014 Lisboa, which is 50 min walk (or 30 min by public transport) from the workshop venue.
+The DL & NMR Joint Dinner (included in the registration) on July 18 is held in <a href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">*Portugália*</a>. The restaurant is located in Av. Almirante Reis 117, 1150-014 Lisboa, which is 50 min walk (or 30 min by public transport) from the workshop venue.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d777.9090823636853!2d-9.153485099999997!3d38.7491068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd1933f31d4349d3%3A0x3b01f701d0c1e3e6!2sEdif%C3%ADcio%20II%20-%20ISCTE%2C%201649-026%20Lisboa%2C%20Portugal!3m2!1d38.7490837!2d-9.153539199999999!4m5!1s0xd193399d85790e1%3A0x67b93c49924b8554!2sAv.%20Alm.%20Reis%20117%2C%201150-014%20Lisboa%2C%20Portugal!3m2!1d38.7310841!2d-9.134636!5e0!3m2!1sen!2sde!4v1780330116210!5m2!1sen!2sde" width="70%" height="20%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### DL & NMR Discord Hub
+-----
+
+To make the most of our time together, we’ve created a dedicated Discord channel for all DL & NMR 2026 workshop participants. This space is designed to help you connect, coordinate, and self-organise beyond the workshop program.
+
+* Dinner plans. For Thursday, Friday and Sunday, you can suggest restaurants, coordinate dinner plans and self-organise into groups. No one eats alone (unless you want to). 
+
+* Shared taxis. Split costs and travel together to/from the venue, airport, or evening events.
+
+* Spontaneous hangouts. Propose a coffee break, after-session drink, or sightseeing trip.
+
+[<i class="fab fa-discord"></i> Join channel](https://discord.gg/cQxNBPUpN){: target="_blank" .btn .btn--primary .btn--large}
 

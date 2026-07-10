@@ -1,16 +1,16 @@
 main:
+  - title: "Program"
+    url: /program/
+  - title: "Logistics"
+    url: /venue/
+  - title: "Team"
+    url: /orga/
+  - title: "Accepted Papers"
+    url: /accepted/
   - title: "Dates"
     url: /dates/
   - title: "Registration"
     url: /registration/
-  - title: "Venue"
-    url: /venue/
-  - title: "Program"
-    url: /program/
-  - title: "Accepted Papers"
-    url: /accepted/
-  - title: "Team"
-    url: /orga/
   - title: "Call"
     url: /call/
   - title: "Submissions"
