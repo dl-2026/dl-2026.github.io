@@ -71,7 +71,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** chaired by Matthias Knorr 📣 |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
 | **10:30-11:10** | Poster & Demo Announcements |
-| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ |
+| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato 🎙️, Ignacio Huitzil, Rafael Peñaloza Nyssen |
 | | <a title="Click to see the abstract" href="/accepted#id21" class=posterdemo>Towards Visual Decision Support in Interactive Repair</a> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <a title="Click to see the abstract" href="/accepted#id36" class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></a> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová |  
 | | <a title="Click to see the abstract" href="/accepted#id6" class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</a> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
@@ -105,7 +105,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <a title="Click to see the abstract" href="/accepted#id26" class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</a> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | | <a title="Click to see the abstract" href="/accepted#id6" class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</a> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ | 
+| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato 🎙️, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ | 
 | ----------- | ------------------------------------- |
 
 
