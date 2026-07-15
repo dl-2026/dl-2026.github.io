@@ -70,7 +70,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:00-9:05**  | Welcome to DL 2026!            |
 | **9:05-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Computing Interpolants in Description Logics</a> **Invited Speaker: Jean Christoph Jung** chaired by Matthias Knorr 📣 |
 | **10:00-10:30** |  Coffee break <big><big>☕</big></big> |
-| **10:30-11:10** | Poster & Demo Announcements |
+| **10:30-11:10** | **Poster & Demo Announcements** paced by Alisa Kovtunova ⏰ |
 | | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato 🎙️, Ignacio Huitzil, Rafael Peñaloza Nyssen |
 | | <a title="Click to see the abstract" href="/accepted#id21" class=posterdemo>Towards Visual Decision Support in Interactive Repair</a> Christian Alrabbaa 🎙️, Franz Baader, Raimund Dachselt, Pratistha Kansakar 🎙️, Julián Méndez, Afshin Zanganeh | 
 | | <a title="Click to see the abstract" href="/accepted#id36" class=posterdemo>Optimization and Empirical Evaluation of the CATS ABox Abduction Solver<!--(Extended Abstract)--></a> Janka Boborová 🎙️, Jakub Kloc, Martin Homola, Júlia Pukancová |  
@@ -85,7 +85,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 13:50-14:10 | <a title="Click to see the abstract" href="/accepted#id30" class=talk>Baby Steps Towards Finite Satisfiability For LoopPDL</a> Bartosz Jan Bednarczyk, Mikołaj Swoboda 🎙️ |
 | 14:10-14:30 | <a title="Click to see the abstract" href="/accepted#id11" class=talk>Subsumption in ℱℒ<sub>⊥reg</sub> with TBoxes Is in ExpTime</a> Michał Henne 🎙️, Barbara Morawska, Paweł Parys |
 | 14:30-14:50 | <a title="Click to see the abstract" href="/accepted#id9" class=talk>Tree Description Dependencies</a> David Toman 🎙️, Grant Weddell  <!-- Breather  <big><big>🧘</big></big> --> | 
-| **15:00-15:20** | Poster Announcements |
+| **15:00-15:20** | **Poster Announcements** paced by Alisa Kovtunova ⏰ |
 | | <a title="Click to see the abstract" href="/accepted#id20" class=poster>Formal Reasoning with Learned Predicates<!--(Extended Abstract)--></a> Gianluca Cima 🎙️, Marco Console, Laura Papi 🎙️ |
 | | <a title="Click to see the abstract" href="/accepted#id31" class=poster>Preferential Temporal Description Logics with Typicality, weighted KBs and preference combination</a> Mario Alviano, Laura Giordano 🎙️, Daniele Theseider Dupré |
 | | <a title="Click to see the abstract" href="/accepted#id5" class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</a> Riccardo Sieve 🎙️ |
