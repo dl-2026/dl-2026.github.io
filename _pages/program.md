@@ -91,7 +91,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <a title="Click to see the abstract" href="/accepted#id5" class=poster>OxidOWL: Development and Maintenance of OWL DL Reasoners with Coding Agents</a> Riccardo Sieve 🎙️ |
 | | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger |
 | | <a title="Click to see the abstract" href="/accepted#id26" class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</a> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
-| **15:20-16:00** | **Learning** chaired by Rafael Peñaloza Nyssen 📣 |
+| **15:20-16:00** | **Learning** chaired by Jean Christoph Jung 📣 |
 | 15:20-15:40 | <a title="Click to see the abstract" href="/accepted#id19" class=talk>Reaching for the Stars in ℰℒ Concept Learning</a> Bente Gortworst 🎙️, Cem Okulmus, Magdalena Ortiz, Anni-Yasmin Turhan |
 | 15:40-16:00 | <a title="Click to see the abstract" href="/accepted#id25" class=talk>Finite Characterizations of ℰℒ Ontologies and Concept Inclusions</a> Maurice Funk, Simon Hosemann 🎙️, Carsten Lutz |
 | **16:00-16:30** | Coffee break <big><big>☕</big></big> |
