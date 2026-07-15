@@ -105,7 +105,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | | <a title="Click to see the abstract" href="/accepted#id26" class=poster>Modeling Bias in Machine Learning with Description Logics and Epistemic Modalities</a> Mattia Petrolo 🎙️, Ekaterina Kubyshkina |
 | | <a title="Click to see the abstract" href="/accepted#id6" class=posterdemo>Visualizing HS-Tree-Based Abductive Reasoning: An Educational Tool for Algorithm Exploration</a> Michaela Tóthová 🎙️, Janka Boborová 🎙️, Júlia Pukancová, Jakub Kloc, Martin Homola |
 | | <a title="Click to see the abstract" href="/accepted#id43" class=poster>BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization<!--(Extended Abstract)--></a> Bruno F. Lourenço, Hesham Morgan 🎙️, Ana Ozaki, Aleksander Pavlovic, Emanuel Sallinger |
-| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato 🎙️, Ignacio Huitzil, Rafael Peñaloza Nyssen 🎙️ | 
+| | <a title="Click to see the abstract" href="/accepted#id15" class=posterdemo>Introducing DeepEL<!--(Extended Abstract)--></a> Alessandro Longato 🎙️, Ignacio Huitzil, Rafael Peñaloza Nyssen | 
 | ----------- | ------------------------------------- |
 
 
@@ -116,7 +116,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | **9:00-10:00** | <a title="Click to see the abstract" href="/#invited-speakers" class=invited>Defeasible Reasoning</a> **Invited Speaker: Tommie (Thomas) Meyer** chaired by Nico Potyka 📣 |
 | **10:00-10:30** | Coffee break <big><big>☕</big></big> |
 | **10:30-11:50** | **Conflicts and Exceptions** chaired by Ivan Varzinczak 📣 |
-| 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Thomas Meyer, Rafael Peñaloza Nyssen 🎙️, Leendert van der Torre |
+| 10:30-10:50 | <a title="Click to see the abstract" href="/accepted#id10" class=talk>Deontic Defeasible Description Logic</a> Giovanni Casini, Thomas Meyer 🎙️, Rafael Peñaloza Nyssen, Leendert van der Torre |
 | 10:50-11:10 | <a title="Click to see the abstract" href="/accepted#id18" class=talk>Neighbourhood Description Logics for Multiperspective Reasoning</a> Tiziano Dalmonte 🎙️, Andrea Mazzullo, Rafael Peñaloza Nyssen  |
 | 11:10-11:30 | <a title="Click to see the abstract" href="/accepted#id7" class=talk>Towards Putting Perspective into OWL<!--(Extended Abstract)--></a> Lucía Gómez Álvarez, Sebastian Rudolph 🎙️ |
 | 11:30-11:50 | <a title="Click to see the abstract" href="/accepted#id22" class=talk>Using ASP(Q) to Handle Inconsistent Prioritized Data<!--(Extended Abstract)--></a> Meghyn Bienvenu, Camille Bourgaux, Robin Jean 🎙️, Giuseppe Mazzotta  <!-- Breather  <big><big>🧘</big></big> --> | 
