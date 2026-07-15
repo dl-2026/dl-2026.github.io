@@ -108,6 +108,11 @@ Our Session Chairs are respected colleagues who volunteer their time and energy 
     </div>
     
     <div class="person-item">
+        <div class="name">Jean Christoph Jung</div>
+        <div class="details">TU Dortmund University, Germany</div>
+    </div>
+    
+    <div class="person-item">
         <div class="name">Patrick Koopmann</div>
         <div class="details">Vrije Universiteit Amsterdam, the Netherlands</div>
     </div>
@@ -120,11 +125,6 @@ Our Session Chairs are respected colleagues who volunteer their time and energy 
     <div class="person-item">
         <div class="name">Andrea Mazzullo</div>
         <div class="details">Free University of Bozen-Bolzano, Italy</div>
-    </div>
-
-    <div class="person-item">
-        <div class="name">Rafael Peñaloza</div>
-        <div class="details">University of Milano-Bicocca, Italy</div>
     </div>
 
     <div class="person-item">
