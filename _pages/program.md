@@ -124,7 +124,7 @@ Break periods and lunch hours vary by day and are not consistent. Please check t
 | 12:00-12:20 | <a title="Click to see the abstract" href="/accepted#id13" class=talk>Two-Variable Logic for Hierarchically Partitioned and Ordered Data<!--(Extended Abstract)--></a> Oskar Fiuk, Emanuel Kieroński, Vincent Michielini 🎙️ |
 | 12:20-12:40 | <a title="Click to see the abstract" href="/accepted#id39" class=talk>Will My Favorite Chases Terminate if Evaluating Conjunctive Queries Does? One Does Not Simply Decide This<!--(Extended Abstract)--></a> Lucas Larroque 🎙️, Quentin Manière |
 | **12:40-14:10** | Lunch <big><big>🥦</big></big> |
-| **14:10-17:00** | **Special Session featuring Moshe Vardi, Franz Baader and Magdalena Ortiz** including a coffee break <big><big>☕</big></big> at **15:30-16:00**|
+| **14:10-17:00** | **Special Session featuring Moshe Vardi, Franz Baader and Magdalena Ortiz** including a coffee break at **15:30-16:00**|
 | **19:00-22:00** | DL & NMR Joint Dinner in <a title="Click to see the abstract" href="https://maps.app.goo.gl/61RCKAH68NVq6VWv7" target="_blank">Portugália</a> <big><big>🥂</big></big> |
 | ----------- | ------------------------------------- |
 
