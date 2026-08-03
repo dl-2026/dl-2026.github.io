@@ -128,7 +128,7 @@ Our Session Chairs are respected colleagues who volunteer their time and energy 
     </div>
     
     <div class="person-item">
-        <div class="name"><a href="/assets/certificates/SeRu.pdf" target="_blank">Sebastian Rudolph</a></a></div>
+        <div class="name"><a href="/assets/certificates/SeRu.pdf" target="_blank">Sebastian Rudolph</a></div>
         <div class="details">TU Dresden, Germany</div>
     </div>
     
