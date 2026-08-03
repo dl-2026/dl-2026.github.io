@@ -126,14 +126,9 @@ Our Session Chairs are respected colleagues who volunteer their time and energy 
         <div class="name">Andrea Mazzullo</div>
         <div class="details">Free University of Bozen-Bolzano, Italy</div>
     </div>
-
-    <div class="person-item">
-        <div class="name">Nico Potyka</div>
-        <div class="details">Cardiff University, UK</div>
-    </div>
     
     <div class="person-item">
-        <div class="name">Sebastian Rudolph</div>
+        <div class="name"><a href="/assets/certificates/SeRu.pdf" target="_blank">Sebastian Rudolph</a></div>
         <div class="details">TU Dresden, Germany</div>
     </div>
     
