@@ -58,9 +58,11 @@ Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Poster
 ### Awards  
 -----
 
-**Best Paper Award**<big><big>🏆</big></big>: Anton Gnatenko and Roman Kontchakov for the paper "Temporal ℰℒ and Equations over Sets of Integers".
+<big><big>🏆</big></big> Best Paper Award
+    Anton Gnatenko, Roman Kontchakov and the paper "Temporal ℰℒ and Equations over Sets of Integers".
 
-**Best Poster Award (Public Choice)**<big><big>🏆</big></big>: Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksandar Pavlović and Emanuel Sallinger for the poster "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization".
+<big><big>🏆</big></big> Best Poster Award (Public Choice) 
+    Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger and the poster "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization".
 
 
 ### List of Accepted Papers (with Abstracts)
