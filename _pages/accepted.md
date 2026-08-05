@@ -29,7 +29,7 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
 }
 
     .award {
-        background: #FFD700;
+        background: #FDEE7A;
         padding:5px 10px;
         border-radius:12px; 
         font-size:smaller;
