@@ -48,12 +48,16 @@ details div {
 
 ### Paper Acceptance Overview
 -----
-Accepted papers: **35**, comprising 13 extended abstracts and 22 full papers.
+Accepted papers: **35**, comprising 13 extended abstracts and 22 full papers. The CEUR Proceedings are available on <a href="https://ceur-ws.org/Vol-4230/" target="_blank">https://ceur-ws.org/Vol-4230/</a>.
 
 ### Presentation Format  
 -----
 Oral presentations: **25** <span class=talk>Talks</span>.  
 Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Posters & Demos</span> and 5 foundational <span class=poster>Posters</span>. 
+
+### Awards  
+-----
+We are delighted to announce that the **Best Paper Award** goes to Anton Gnatenko and Roman Kontchakov for the paper "Temporal ℰℒ and Equations over Sets of Integers" and the **Best Poster Award**, as selected by public choice, is awarded to Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksandar Pavlović and Emanuel Sallinger for their poster "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization". Many congratulations to the authors for their outstanding work!
 
 ### List of Accepted Papers (with Abstracts)
 -----
