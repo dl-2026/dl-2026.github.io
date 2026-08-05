@@ -28,6 +28,15 @@ excerpt: "DL 2026 · July 17-19, 2026 · Lisbon, Portugal"
         font-size:smaller;
 }
 
+    .award {
+        background: linear-gradient(135deg, #1A2A44, #2D1B4E);
+        gold accent: #FFD700;
+        text: #FFFFFF;
+        padding:5px 10px;
+        border-radius:12px; 
+        font-size:smaller;
+}
+
 details {
     margin-top: 0em;
     margin-left: 0em;
@@ -58,11 +67,9 @@ Poster & demo session papers: **10**, comprising 5 <span class=posterdemo>Poster
 ### Awards  
 -----
 
-<big><big>🏆</big></big> Best Paper Award  
-Anton Gnatenko, Roman Kontchakov and the paper "Temporal ℰℒ and Equations over Sets of Integers".
+<big><big>🏆</big></big> <span class=award>Best Paper Award</span> Anton Gnatenko, Roman Kontchakov and the paper "Temporal ℰℒ and Equations over Sets of Integers".
 
-<big><big>🏆</big></big> Best Poster Award (Public Choice)  
-Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger and the poster "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization".
+<big><big>🏆</big></big> <span class=award>Best Poster Award (Public Choice)</span> Bruno F. Lourenço, Hesham Morgan, Ana Ozaki, Aleksandar Pavlović, Emanuel Sallinger and the poster "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization".
 
 
 ### List of Accepted Papers (with Abstracts)
