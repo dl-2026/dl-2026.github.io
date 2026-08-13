@@ -166,6 +166,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
                 <div class="speaker-talk">
                     <p class="talk-title">Defeasible Reasoning</p>
                     <p style="font-size:smaller;">Preferential approaches to defeasible reasoning have turned out to be particularly promising for the propositional case, mainly because they are based on an elegant, comprehensive, and well-studied framework for non-monotonic reasoning proposed by Kraus, Lehmann, and Magidor—often referred to as the KLM approach. In the first part of this talk I will provide an introduction to propositional KLM-style defeasible reasoning. This will be followed by an overview of attempts to extend KLM-style defeasible reasoning beyond propositional logic. More specifically, I’ll look at the application of the KLM approach to description logics and some restricted first-order logics. In doing so, I’ll describe what has worked well, but also what are the (many) remaining challenges.</p>
+                    <iframe src="https://www.youtube.com/embed/biwXmGkJBS8?si=vo3EYSw3sDf2kIpO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div> 
             </div>
         </div>
@@ -195,6 +196,7 @@ excerpt: "July 17-19, 2026 · Lisbon, Portugal"
                 <div class="speaker-talk">
                     <p class="talk-title">Computing Interpolants in Description Logics</p>
                     <p style="font-size:smaller;">Interpolants have a wide range of applications in description logics. For example, they serve as explanations for given complicated entailments, they can be used as explicit definitions for concepts in ontology construction, and they can be regarded as fitting concepts in description logic concept learning. In all these applications, the actual interpolants are needed and hence we need methods to compute them. While the computation problem has been thoroughly studied for description logics enjoying the Craig Interpolation Property, the corresponding theory for logics lacking that property is still underdeveloped. In this talk, I will report on first steps towards a better understanding of the computation of interpolants in such cases.</p>
+                    <iframe src="https://www.youtube.com/embed/Bzy1ox6Fjbc?si=0p3xfoXqaUzT8Ayn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </div> 
