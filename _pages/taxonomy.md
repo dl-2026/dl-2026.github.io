@@ -17,108 +17,110 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 
 # DL Keyword Taxonomy
 
-<a href="/assets/keywords.owl" target="_blank">The OWL ontology.</a>
+<a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
-- Foundations of description logics: 
-- - decidability and complexity of reasoning, 
-- - expressive power, 
-- - novel inference problems:
-- - - Novel query type 
-- - inconsistency management:
-- - - Repairs 
-- - - Prioritized KBs
-- - - Error-tolerance reasoning
-- - reasoning techniques:
-- - - Translation to other logics
-- - modularisation, 
-- - ontology extraction, 
-- - Unwanted consequences and missing entailment
-- - - Repairs
+- Foundations of description logics 
+- - decidability and complexity of reasoning 
+- - expressive power 
+- - novel inference problems
+- - - novel query type 
+- - inconsistency management
+- - - repairs 
 - - - - Data repairs
 - - - - TBox repairs
-- - - Abductive reasoning 
-- - Inductive reasoning
+- - - prioritized KBs
+- - - error-tolerance reasoning
+- - reasoning techniques
+- - - translation to other logics
+- - modularisation 
+- - ontology extraction 
+- - unwanted consequences and missing entailment
+- - - repairs
+- - - - Data repairs
+- - - - TBox repairs
+- - - abductive reasoning 
+- - inductive reasoning
 
 
-- Extensions of description logics: 
-- - Closed-world reasoning 
-- - Non-monotonic reasoning
-- - - Defeasible reasoning
-- - - Deontic reasoning
-- - - Neighbourhood DL
-- - - Multiperspective reasoning
-- - Numerical
-- - - Concrete domains
-- - - Probabilistic reasoning
-- - - epistemic reasoning, 
-- - - fuzzy reasoning, 
-- - - Preferential reasoning
-- - - Temporal reasoning
-- - - - Metric temporal DL
-- - - - Linear-time temporal DL
+- Extensions of description logics 
+- - closed-world reasoning 
+- - non-monotonic reasoning
+- - - defeasible reasoning
+- - - deontic reasoning
+- - - neighbourhood DL
+- - - multiperspective reasoning
+- - numerical
+- - - concrete domains
+- - - probabilistic reasoning
+- - - epistemic reasoning 
+- - - fuzzy reasoning 
+- - - preferential reasoning
+- - - temporal reasoning
+- - - - metric temporal DL
+- - - - linear-time temporal DL
 - - - spatial reasoning
-- - procedural knowledge, 
-- - query answering, 
+- - procedural knowledge 
+- - query answering 
 - - reasoning over dynamic information
 
-- Integration of description logics with other formalisms: 
-- - object-oriented representation languages, 
-- - database query languages, 
-- - constraint-based programming, 
-- - logic programming, 
-- - rule-based systems:
-- - - Temporal existential rules
-- - - Chase
+- Integration of description logics with other formalisms 
+- - object-oriented representation languages 
+- - database query languages 
+- - constraint-based programming 
+- - logic programming 
+- - rule-based systems
+- - - temporal existential rules
+- - - chase
 - - planning
 
 
-- Applications and use areas of description logics: 
-- - ontology engineering, 
-- - ontology languages, 
-- - databases, 
-- - ontology-based data access, 
-- - semi-structured data, 
-- - graph-structured data, 
-- - linked data, 
-- - document management, 
-- - Learning:
+- Applications and use areas of description logics 
+- - ontology engineering 
+- - ontology languages 
+- - databases 
+- - ontology-based data access 
+- - semi-structured data 
+- - graph-structured data 
+- - linked data 
+- - document management 
+- - Learning
 - - - Concept learning
 - - - Finite Characterization 
-- - explanations, 
-- - - natural language generation:
+- - explanations 
+- - - natural language generation
 - - - - Template-based
 - - - - LLM Generated
-- - - Explanations of entailment
-- - - - Proofs
-- - - - Justifications / Pinpointing / MinAs
-- - - - (Fact) Relevance
-- - - Explanations of non-entailment
-- - - - Counterexamples
-- - - - Abduction
-- - Semantic Web, 
-- - cloud computing, 
-- - conceptual modeling, 
-- - web services, 
-- - business processes, 
-- - practical experiences, 
-- - -  case studies, 
+- - - explanations of entailment
+- - - - proofs
+- - - - justifications / pinpointing
+- - - - fact relevance
+- - - explanations of non-entailment
+- - - - counterexamples
+- - - - abduction
+- - Semantic Web 
+- - cloud computing 
+- - conceptual modeling 
+- - web services 
+- - business processes 
+- - practical experiences 
+- - -  case studies 
 - - - feasibility studies
 
 
-- Systems and tools of all kinds around description logics: 
-- - reasoners, 
-- - ontology editors, 
-- - ontology alignment, 
-- - ontology extraction, 
-- - other support for ontology development, 
-- - database schema design, 
+- Systems and tools of all kinds around description logics 
+- - reasoners 
+- - ontology editors 
+- - ontology alignment 
+- - ontology extraction 
+- - other support for ontology development 
+- - database schema design 
 - - query rewriting
-- - data integration, 
-- - implementation and optimization techniques, 
-- - Experiments
-- - - benchmarking, 
-- - - User studies
-- - Modeling
-- - Visualization
-- - Ontology embeddings
+- - data integration 
+- - implementation and optimization techniques 
+- - experiments
+- - - benchmarking 
+- - - user studies
+- - modeling
+- - visualization
+- - ontology embeddings
 
