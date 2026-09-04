@@ -5,12 +5,12 @@ main:
     url: /accepted/
   - title: "Program"
     url: /program/
-  - title: "Logistics"
-    url: /venue/
   - title: "Team"
     url: /orga/
   - title: "Dates"
     url: /dates/
+  - title: "Logistics"
+    url: /venue/
   - title: "Registration"
     url: /registration/
   - title: "Call"
