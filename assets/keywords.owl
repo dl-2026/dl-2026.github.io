@@ -1,0 +1,765 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/2026/DLkeywords#"
+     xml:base="http://www.semanticweb.org/ontologies/2026/DLkeywords"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:obda="https://w3id.org/obda/vocabulary#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Abduction -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Abduction">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_non_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Abductive_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Abductive_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Unwanted_consequences_and_missing_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Benchmarking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Benchmarking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Experiments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Business_processes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Business_processes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Case_studies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Case_studies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Practical_experiences"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Chase -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Chase">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Rule_based_systems"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Closed_world_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Closed_world_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Cloud_computing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Cloud_computing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Concept_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Concept_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Conceptual_modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Conceptual_modeling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Concrete_domains -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Concrete_domains">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Constraint_based_programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Constraint_based_programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Counterexamples -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Counterexamples">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_non_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Data_integration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Data_integration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Data_repairs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Data_repairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Repairs"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Database_query_languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Database_query_languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Database_schema_design -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Database_schema_design">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Databases -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Databases">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Decidability_and_complexity_of_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Decidability_and_complexity_of_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Defeasible_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Defeasible_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Deontic_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Deontic_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Document_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Document_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Epistemic_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Epistemic_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Error_tolerance_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Error_tolerance_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Inconsistency_management"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Experiments -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Experiments">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_non_entailment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_non_entailment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Expressive_power -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Expressive_power">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Fact_Relevance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Fact_Relevance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Feasibility_studies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Feasibility_studies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Practical_experiences"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Finite_characterization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Finite_characterization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Fuzzy_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Fuzzy_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Graph_structured_data -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Graph_structured_data">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Implementation_and_optimization_techniques -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Implementation_and_optimization_techniques">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Inconsistency_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Inconsistency_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Inductive_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Inductive_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Justifications -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Justifications">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Pinpointing"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#LLM_Generated -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#LLM_Generated">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Natural_language_generation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Linear_time_temporal_DL -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Linear_time_temporal_DL">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Linked_data -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Linked_data">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Logic_programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Logic_programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Metric_temporal_DL -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Metric_temporal_DL">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Modeling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Modularisation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Modularisation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Multiperspective_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Multiperspective_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Natural_language_generation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Natural_language_generation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Neighbourhood_DL -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Neighbourhood_DL">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Non_monotonic_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Novel_inference_problems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Novel_inference_problems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Novel_query_type -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Novel_query_type">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Novel_inference_problems"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Object_oriented_representation_languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Object_oriented_representation_languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_alignment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_alignment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_based_data_access -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_based_data_access">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_editors -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_editors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_embeddings -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_embeddings">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_engineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_engineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_extraction -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_extraction">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Ontology_languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Other_support_for_ontology_development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Other_support_for_ontology_development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Pinpointing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Pinpointing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Planning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Planning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Practical_experiences -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Practical_experiences">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Preferential_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Preferential_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Prioritized_KBs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Prioritized_KBs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Inconsistency_management"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Probabilistic_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Probabilistic_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Procedural_knowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Procedural_knowledge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Proofs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Proofs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Explanations_of_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Query_answering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Query_answering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoners -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoners">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoning_over_dynamic_information -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoning_over_dynamic_information">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Extensions_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoning_techniques -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoning_techniques">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Repairs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Repairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Inconsistency_management"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Unwanted_consequences_and_missing_entailment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Rule_based_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Rule_based_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Integration_of_description_logics_with_other_formalisms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Semantic_Web -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Semantic_Web">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Semi_structured_data -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Semi_structured_data">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Spatial_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Spatial_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#TBox_repairs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#TBox_repairs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Repairs"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Template_based -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Template_based">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Natural_language_generation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_existential_rules -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_existential_rules">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Rule_based_systems"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_reasoning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Temporal_reasoning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Numerical_reasoning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Translation_to_other_logics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Translation_to_other_logics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Reasoning_techniques"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Unwanted_consequences_and_missing_entailment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Unwanted_consequences_and_missing_entailment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Foundations_of_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#User_studies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#User_studies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Experiments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Visualization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Visualization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Systems_and_tools_of_all_kinds_around_description_logics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2026/DLkeywords#Web_services -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2026/DLkeywords#Web_services">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2026/DLkeywords#Applications_and_use_areas_of_description_logics"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+

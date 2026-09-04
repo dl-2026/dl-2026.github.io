@@ -1,12 +1,14 @@
 main:
+  - title: "Keyword Taxonomy"
+    url: /taxonomy/
+  - title: "Accepted Papers"
+    url: /accepted/
   - title: "Program"
     url: /program/
   - title: "Logistics"
     url: /venue/
   - title: "Team"
     url: /orga/
-  - title: "Accepted Papers"
-    url: /accepted/
   - title: "Dates"
     url: /dates/
   - title: "Registration"
