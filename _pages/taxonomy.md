@@ -20,21 +20,15 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
 <details> <summary>Foundations of description logics</summary> 
-&emsp; decidability and complexity of reasoning <br>
-&emsp; expressive power 
-&emsp; <details> <summary> novel inference problems</summary> 
-&emsp;&emsp; novel query type </details> 
-&emsp; <details> <summary> inconsistency management </summary> 
-&emsp;&emsp; prioritized KBs 
-&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp; Data repairs; TBox repairs </details> 
-&emsp;&emsp; error-tolerance reasoning </details>
-&emsp; <details> <summary> reasoning techniques </summary> &emsp;&emsp; translation to other logics </details>
-&emsp; modularisation <br>
-&emsp; ontology extraction 
-&emsp; <details> <summary> unwanted consequences and missing entailment </summary>
-&emsp;&emsp; abductive reasoning 
-&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp; Data repairs; TBox repairs </details> </details>
-&emsp; inductive reasoning
+&emsp; #️⃣ decidability and complexity of reasoning <br>
+&emsp; #️⃣ expressive power 
+<details> <summary> &emsp; #️⃣ novel inference problems</summary> &emsp;&emsp; #️⃣ novel query type </details> 
+&emsp; <details> <summary> #️⃣ inconsistency management </summary> &emsp;&emsp; #️⃣ prioritized KBs; #️⃣ repairs: #️⃣ Data repairs #️⃣ TBox repairs; #️⃣ error-tolerance reasoning </details>
+&emsp; <details> <summary> #️⃣ reasoning techniques </summary> &emsp;&emsp; #️⃣ translation to other logics </details>
+&emsp; #️⃣ modularisation <br>
+&emsp; #️⃣ inductive reasoning <br>
+&emsp; #️⃣ ontology extraction 
+&emsp; <details> <summary> #️⃣ unwanted consequences and missing entailment </summary> &emsp;&emsp; #️⃣ abductive reasoning; #️⃣ repairs: #️⃣ Data repairs #️⃣ TBox repairs </details>
 </details> 
 
 <details> <summary> Extensions of description logics </summary> 
