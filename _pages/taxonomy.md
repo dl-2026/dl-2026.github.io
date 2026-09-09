@@ -63,13 +63,13 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ document management <br>
 &emsp; #️⃣ Semantic Web <br>
 &emsp; #️⃣ cloud computing <br>
-&emsp; #️⃣ conceptual modeling <br>
-&emsp; #️⃣ web services <br>
-&emsp; #️⃣ business processes 
+&emsp; #️⃣ conceptual modeling 
 &emsp; <details> <summary> #️⃣ learning </summary>
 &emsp;&emsp; #️⃣ concept learning; #️⃣ finite characterization </details>
+&emsp; #️⃣ web services 
 &emsp; <details> <summary> #️⃣ practical experiences </summary>
 &emsp;&emsp; #️⃣  case studies; #️⃣ feasibility studies </details>
+&emsp; #️⃣ business processes 
 &emsp; <details> <summary> #️⃣ explanations </summary>
 &emsp;&emsp; #️⃣ natural language generation: #️⃣ Template-based #️⃣ LLM Generated;
 <details> <summary> &emsp;&emsp; #️⃣ explanations of entailment </summary>
