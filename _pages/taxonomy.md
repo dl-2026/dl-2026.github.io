@@ -19,28 +19,28 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 
 <a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
-- Foundations of description logics 
+<details> <summary>Foundations of description logics</summary> 
 - - decidability and complexity of reasoning 
 - - expressive power 
-- - novel inference problems
-- - - novel query type 
-- - inconsistency management
+- - <details> <summary> novel inference problems</summary> 
+- - - novel query type </details> 
+- - <details> <summary> inconsistency management </summary> 
 - - - repairs 
 - - - - Data repairs
 - - - - TBox repairs
 - - - prioritized KBs
-- - - error-tolerance reasoning
-- - reasoning techniques
-- - - translation to other logics
+- - - error-tolerance reasoning </details>
+- - <details> <summary> reasoning techniques </summary>
+- - - translation to other logics </details>
 - - modularisation 
 - - ontology extraction 
-- - unwanted consequences and missing entailment
+- - <details> <summary> unwanted consequences and missing entailment </summary>
 - - - repairs
 - - - - Data repairs
 - - - - TBox repairs
-- - - abductive reasoning 
+- - - abductive reasoning </details>
 - - inductive reasoning
-
+<\details>
 
 - Extensions of description logics 
 - - closed-world reasoning 
