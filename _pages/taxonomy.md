@@ -25,7 +25,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; <details> <summary> novel inference problems</summary> &emsp;&emsp; novel query type </details> 
 &emsp; <details> <summary> inconsistency management </summary> 
 &emsp;&emsp; prioritized KBs 
-&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> <nobr>
+&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> 
 &emsp;&emsp; error-tolerance reasoning </details>
 &emsp; <details> <summary> reasoning techniques </summary> &emsp;&emsp; translation to other logics </details>
 &emsp; modularisation <br>
