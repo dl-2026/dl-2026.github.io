@@ -20,27 +20,21 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
 <details> <summary>Foundations of description logics</summary> 
-- - decidability and complexity of reasoning 
-- - expressive power 
-- - <details> <summary> novel inference problems</summary> 
-- - - novel query type </details> 
-- - <details> <summary> inconsistency management </summary> 
-- - - repairs 
-- - - - Data repairs
-- - - - TBox repairs
-- - - prioritized KBs
-- - - error-tolerance reasoning </details>
-- - <details> <summary> reasoning techniques </summary>
-- - - translation to other logics </details>
-- - modularisation 
-- - ontology extraction 
-- - <details> <summary> unwanted consequences and missing entailment </summary>
-- - - repairs
-- - - - Data repairs
-- - - - TBox repairs
-- - - abductive reasoning </details>
-- - inductive reasoning
-<\details>
+decidability and complexity of reasoning <br>
+expressive power <br>
+<details> <summary> novel inference problems</summary> novel query type </details> 
+<details> <summary> inconsistency management </summary> 
+<details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
+prioritized KBs <br>
+error-tolerance reasoning </details>
+<details> <summary> reasoning techniques </summary> translation to other logics </details>
+modularisation <br>
+ontology extraction <br>
+<details> <summary> unwanted consequences and missing entailment </summary>
+<details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
+abductive reasoning </details>
+inductive reasoning
+</details>
 
 - Extensions of description logics 
 - - closed-world reasoning 
