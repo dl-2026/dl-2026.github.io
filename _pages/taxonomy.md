@@ -59,48 +59,41 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 </details> <br>
 
 <details> <summary> Integration of description logics with other formalisms </summary> 
-- - object-oriented representation languages 
-- - database query languages 
-- - constraint-based programming 
-- - logic programming 
-- - rule-based systems
-- - - temporal existential rules
-- - - chase
-- - planning
+&emsp; #️⃣ object-oriented representation languages <br>
+&emsp; #️⃣ database query languages <br>
+&emsp; #️⃣ constraint-based programming <br>
+&emsp; #️⃣ logic programming <br>
+&emsp; #️⃣ planning 
+&emsp; <details> <summary> #️⃣ rule-based systems </summary>
+&emsp;&emsp; #️⃣ temporal existential rules; #️⃣ chase </details>
 </details> <br>
 
 <details> <summary> Applications and use areas of description logics </summary> 
-&emsp; ontology engineering 
-&emsp; ontology languages 
-&emsp; databases 
-&emsp; ontology-based data access 
-&emsp; semi-structured data 
-&emsp; graph-structured data 
-&emsp; linked data 
-&emsp; document management 
-&emsp; learning
-&emsp;- concept learning
-&emsp;- finite characterization 
-&emsp; explanations 
-&emsp;- natural language generation
-&emsp;- - Template-based
-&emsp;- - LLM Generated
-&emsp;- explanations of entailment
-&emsp;- - proofs
-&emsp;- - justifications / pinpointing
-&emsp;- - fact relevance
-&emsp;- explanations of non-entailment
-&emsp;- - counterexamples
-&emsp;- - abduction
-&emsp; Semantic Web 
-&emsp; cloud computing 
-&emsp; conceptual modeling 
-&emsp; web services 
-&emsp; business processes 
-&emsp; practical experiences 
-&emsp;-  case studies 
-&emsp;- feasibility studies
-</details> <br>
+&emsp; #️⃣ ontology engineering <br>
+&emsp; #️⃣ ontology languages <br>
+&emsp; #️⃣ databases <br>
+&emsp; #️⃣ ontology-based data access <br>
+&emsp; #️⃣ semi-structured data <br>
+&emsp; #️⃣ graph-structured data <br>
+&emsp; #️⃣ linked data <br>
+&emsp; #️⃣ document management <br>
+&emsp; #️⃣ Semantic Web <br>
+&emsp; #️⃣ cloud computing <br>
+&emsp; #️⃣ conceptual modeling <br>
+&emsp; #️⃣ web services <br>
+&emsp; #️⃣ business processes <br>
+&emsp; <details> <summary> #️⃣ learning </summary>
+&emsp;&emsp; #️⃣ concept learning; #️⃣ finite characterization </details>
+&emsp; <details> <summary> #️⃣ explanations </summary>
+&emsp;&emsp; <details> <summary> #️⃣ natural language generation </summary>
+&emsp;&emsp;&emsp; #️⃣ Template-based; #️⃣ LLM Generated </details>
+&emsp;&emsp; <details> <summary> #️⃣ explanations of entailment </summary>
+&emsp;&emsp;&emsp; #️⃣ proofs; #️⃣ justifications; #️⃣ pinpointing; #️⃣ fact relevance </details>
+&emsp;&emsp; <details> <summary> #️⃣ explanations of non-entailment </summary>
+&emsp;&emsp;&emsp; #️⃣ counterexamples; #️⃣ abduction </details></details>
+&emsp; <details> <summary> #️⃣ practical experiences </summary>
+&emsp;&emsp; #️⃣  case studies; #️⃣ feasibility studies </details>
+</details> 
 
 <details> <summary> Systems and tools of all kinds around description logics </summary> 
 &emsp; #️⃣ reasoners <br>
