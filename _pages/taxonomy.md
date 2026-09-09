@@ -22,18 +22,18 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <details> <summary>Foundations of description logics</summary> 
 &emsp; decidability and complexity of reasoning <br>
 &emsp; expressive power <br>
-&#9; <details> <summary> novel inference problems</summary> novel query type </details> 
-&#9; <details> <summary> inconsistency management </summary> 
-&#9; <details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
-&#9; prioritized KBs <br>
-&#9; error-tolerance reasoning </details>
-&#9; <details> <summary> reasoning techniques </summary> translation to other logics </details>
-&#9; modularisation <br>
-&#9; ontology extraction <br>
-&#9; <details> <summary> unwanted consequences and missing entailment </summary>
-&#9; <details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
-&#9; abductive reasoning </details>
-&#9; inductive reasoning
+&emsp; <details> <summary> novel inference problems</summary> &emsp;&emsp; novel query type </details> 
+&emsp; <details> <summary> inconsistency management </summary> 
+&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> 
+&emsp;&emsp; prioritized KBs <br>
+&emsp;&emsp; error-tolerance reasoning </details>
+&emsp; <details> <summary> reasoning techniques </summary> &emsp;&emsp; translation to other logics </details>
+&emsp; modularisation <br>
+&emsp; ontology extraction <br>
+&emsp; <details> <summary> unwanted consequences and missing entailment </summary>
+&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> 
+&emsp;&emsp; abductive reasoning </details>
+&emsp; inductive reasoning
 </details>
 
 <details> <summary> Extensions of description logics </summary> 
@@ -70,52 +70,52 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 </details>
 
 <details> <summary> Applications and use areas of description logics </summary> 
-&#9; ontology engineering 
-&#9; ontology languages 
-&#9; databases 
-&#9; ontology-based data access 
-&#9; semi-structured data 
-&#9; graph-structured data 
-&#9; linked data 
-&#9; document management 
-&#9; learning
-&#9;- concept learning
-&#9;- finite characterization 
-&#9; explanations 
-&#9;- natural language generation
-&#9;- - Template-based
-&#9;- - LLM Generated
-&#9;- explanations of entailment
-&#9;- - proofs
-&#9;- - justifications / pinpointing
-&#9;- - fact relevance
-&#9;- explanations of non-entailment
-&#9;- - counterexamples
-&#9;- - abduction
-&#9; Semantic Web 
-&#9; cloud computing 
-&#9; conceptual modeling 
-&#9; web services 
-&#9; business processes 
-&#9; practical experiences 
-&#9;-  case studies 
-&#9;- feasibility studies
+&emsp; ontology engineering 
+&emsp; ontology languages 
+&emsp; databases 
+&emsp; ontology-based data access 
+&emsp; semi-structured data 
+&emsp; graph-structured data 
+&emsp; linked data 
+&emsp; document management 
+&emsp; learning
+&emsp;- concept learning
+&emsp;- finite characterization 
+&emsp; explanations 
+&emsp;- natural language generation
+&emsp;- - Template-based
+&emsp;- - LLM Generated
+&emsp;- explanations of entailment
+&emsp;- - proofs
+&emsp;- - justifications / pinpointing
+&emsp;- - fact relevance
+&emsp;- explanations of non-entailment
+&emsp;- - counterexamples
+&emsp;- - abduction
+&emsp; Semantic Web 
+&emsp; cloud computing 
+&emsp; conceptual modeling 
+&emsp; web services 
+&emsp; business processes 
+&emsp; practical experiences 
+&emsp;-  case studies 
+&emsp;- feasibility studies
 </details>
 
 <details> <summary> Systems and tools of all kinds around description logics </summary> 
-reasoners <br>
-ontology editors <br>
-ontology alignment <br>
-ontology extraction <br>
-other support for ontology development <br>
-database schema design <br>
-query rewriting <br>
-data integration <br>
-implementation and optimization techniques <br>
-<details> <summary> experiments </summary>
-benchmarking <br>
-user studies </details>
-modeling <br>
-visualization <br>
-ontology embeddings
+&emsp; reasoners <br>
+&emsp; ontology editors <br>
+&emsp; ontology alignment <br>
+&emsp; ontology extraction <br>
+&emsp; other support for ontology development <br>
+&emsp; database schema design <br>
+&emsp; query rewriting <br>
+&emsp; data integration <br>
+&emsp; implementation and optimization techniques <br>
+&emsp; <details> <summary> experiments </summary>
+&emsp;&emsp; benchmarking <br>
+&emsp;&emsp; user studies </details>
+&emsp; modeling <br>
+&emsp; visualization <br>
+&emsp; ontology embeddings
 </details>
