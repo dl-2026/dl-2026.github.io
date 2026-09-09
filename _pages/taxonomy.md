@@ -22,7 +22,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <details> <summary>Foundations of description logics</summary> 
 &emsp; #️⃣ decidability and complexity of reasoning <br>
 &emsp; #️⃣ expressive power 
-<details> <summary> &emsp; #️⃣ novel inference problems</summary> &emsp;&emsp; #️⃣ novel query type </details> 
+&emsp; <details> <summary> #️⃣ novel inference problems</summary> &emsp;&emsp; #️⃣ novel query type </details> 
 &emsp; <details> <summary> #️⃣ inconsistency management </summary> &emsp;&emsp; #️⃣ prioritized KBs; #️⃣ repairs: #️⃣ Data repairs #️⃣ TBox repairs; #️⃣ error-tolerance reasoning </details>
 &emsp; <details> <summary> #️⃣ reasoning techniques </summary> &emsp;&emsp; #️⃣ translation to other logics </details>
 &emsp; #️⃣ modularisation <br>
@@ -34,19 +34,9 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <details> <summary> Extensions of description logics </summary> 
 &emsp; #️⃣ closed-world reasoning 
 &emsp; <details> <summary> #️⃣ non-monotonic reasoning </summary> 
-&emsp;&emsp; #️⃣ defeasible reasoning <br>
-&emsp;&emsp; #️⃣ deontic reasoning <br>
-&emsp;&emsp; #️⃣ neighbourhood DL <br>
-&emsp;&emsp; #️⃣ multiperspective reasoning </details>
-&emsp; <details> <summary> #️⃣ numerical reasoning  </summary> 
-&emsp;&emsp; #️⃣ concrete domains <br>
-&emsp;&emsp; #️⃣ probabilistic reasoning <br>
-&emsp;&emsp; #️⃣ epistemic reasoning <br>
-&emsp;&emsp; #️⃣ fuzzy reasoning <br>
-&emsp;&emsp; #️⃣ preferential reasoning 
-&emsp;&emsp; <details> <summary> #️⃣ temporal reasoning </summary>
-&emsp;&emsp;&emsp; #️⃣ metric temporal DL; #️⃣ linear-time temporal DL </details>
-&emsp;&emsp; #️⃣ spatial reasoning </details>
+&emsp;&emsp; #️⃣ defeasible reasoning; #️⃣ deontic reasoning; #️⃣ neighbourhood DL; #️⃣ multiperspective reasoning </details>
+&emsp; <details> <summary> #️⃣ numerical reasoning </summary> 
+&emsp;&emsp; #️⃣ concrete domains; #️⃣ probabilistic reasoning; #️⃣ epistemic reasoning; #️⃣ fuzzy reasoning; #️⃣ preferential reasoning; #️⃣ temporal reasoning: #️⃣ metric temporal DL #️⃣ linear-time temporal DL; #️⃣ spatial reasoning </details>
 &emsp; #️⃣ procedural knowledge 
 &emsp; #️⃣ query answering 
 &emsp; #️⃣ reasoning over dynamic information
@@ -75,18 +65,17 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ cloud computing <br>
 &emsp; #️⃣ conceptual modeling <br>
 &emsp; #️⃣ web services <br>
-&emsp; #️⃣ business processes <br>
+&emsp; #️⃣ business processes 
 &emsp; <details> <summary> #️⃣ learning </summary>
 &emsp;&emsp; #️⃣ concept learning; #️⃣ finite characterization </details>
+&emsp; <details> <summary> #️⃣ practical experiences </summary>
+&emsp;&emsp; #️⃣  case studies; #️⃣ feasibility studies </details>
 &emsp; <details> <summary> #️⃣ explanations </summary>
-<details> <summary> &emsp;&emsp; #️⃣ natural language generation </summary>
-&emsp;&emsp;&emsp; #️⃣ Template-based; #️⃣ LLM Generated </details>
+&emsp;&emsp; #️⃣ natural language generation: #️⃣ Template-based #️⃣ LLM Generated;
 <details> <summary> &emsp;&emsp; #️⃣ explanations of entailment </summary>
 &emsp;&emsp;&emsp; #️⃣ proofs; #️⃣ justifications; #️⃣ pinpointing; #️⃣ fact relevance </details> 
 <details> <summary> &emsp;&emsp; #️⃣ explanations of non-entailment </summary>
 &emsp;&emsp;&emsp; #️⃣ counterexamples; #️⃣ abduction </details></details>
-&emsp; <details> <summary> #️⃣ practical experiences </summary>
-&emsp;&emsp; #️⃣  case studies; #️⃣ feasibility studies </details>
 </details> 
 
 <details> <summary> Systems and tools of all kinds around description logics </summary> 
