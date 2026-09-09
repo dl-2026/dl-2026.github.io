@@ -21,15 +21,15 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 
 <details> <summary>Foundations of description logics</summary> 
 &emsp; decidability and complexity of reasoning <br>
-&emsp; expressive power <br>
+&emsp; expressive power 
 &emsp; <details> <summary> novel inference problems</summary> &emsp;&emsp; novel query type </details> 
 &emsp; <details> <summary> inconsistency management </summary> 
-&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> 
-&emsp;&emsp; prioritized KBs <br>
+&emsp;&emsp; prioritized KBs 
+&emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> <nobr>
 &emsp;&emsp; error-tolerance reasoning </details>
 &emsp; <details> <summary> reasoning techniques </summary> &emsp;&emsp; translation to other logics </details>
 &emsp; modularisation <br>
-&emsp; ontology extraction <br>
+&emsp; ontology extraction 
 &emsp; <details> <summary> unwanted consequences and missing entailment </summary>
 &emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp;&emsp; Data repairs <br> &emsp;&emsp;&emsp;&emsp; TBox repairs </details> 
 &emsp;&emsp; abductive reasoning </details>
@@ -37,25 +37,25 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 </details>
 
 <details> <summary> Extensions of description logics </summary> 
-- - closed-world reasoning 
-- - non-monotonic reasoning
-- - - defeasible reasoning
-- - - deontic reasoning
-- - - neighbourhood DL
-- - - multiperspective reasoning
-- - numerical
-- - - concrete domains
-- - - probabilistic reasoning
-- - - epistemic reasoning 
-- - - fuzzy reasoning 
-- - - preferential reasoning
-- - - temporal reasoning
-- - - - metric temporal DL
-- - - - linear-time temporal DL
-- - - spatial reasoning
-- - procedural knowledge 
-- - query answering 
-- - reasoning over dynamic information
+&emsp; closed-world reasoning <br>
+&emsp; <details> <summary> non-monotonic reasoning </summary> 
+&emsp;&emsp; defeasible reasoning <br>
+&emsp;&emsp; deontic reasoning <br>
+&emsp;&emsp; neighbourhood DL <br>
+&emsp;&emsp; multiperspective reasoning </details>
+&emsp; <details> <summary> numerical </summary> 
+&emsp;&emsp; concrete domains <br>
+&emsp;&emsp; probabilistic reasoning <br>
+&emsp;&emsp; epistemic reasoning <br>
+&emsp;&emsp; fuzzy reasoning <br>
+&emsp;&emsp; preferential reasoning <br>
+&emsp;&emsp; <details> <summary> temporal reasoning </summary>
+&emsp;&emsp;&emsp; metric temporal DL <br>
+&emsp;&emsp;&emsp; linear-time temporal DL </details>
+&emsp;&emsp; spatial reasoning </details>
+&emsp; procedural knowledge 
+&emsp; query answering 
+&emsp; reasoning over dynamic information
 </details>
 
 <details> <summary> Integration of description logics with other formalisms </summary> 
