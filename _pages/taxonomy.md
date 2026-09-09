@@ -20,23 +20,23 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
 <details> <summary>Foundations of description logics</summary> 
-decidability and complexity of reasoning <br>
-expressive power <br>
-<details> <summary> novel inference problems</summary> novel query type </details> 
-<details> <summary> inconsistency management </summary> 
-<details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
-prioritized KBs <br>
-error-tolerance reasoning </details>
-<details> <summary> reasoning techniques </summary> translation to other logics </details>
-modularisation <br>
-ontology extraction <br>
-<details> <summary> unwanted consequences and missing entailment </summary>
-<details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
-abductive reasoning </details>
-inductive reasoning
+&#9; decidability and complexity of reasoning <br>
+&#9; expressive power <br>
+&#9; <details> <summary> novel inference problems</summary> novel query type </details> 
+&#9; <details> <summary> inconsistency management </summary> 
+&#9; <details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
+&#9; prioritized KBs <br>
+&#9; error-tolerance reasoning </details>
+&#9; <details> <summary> reasoning techniques </summary> translation to other logics </details>
+&#9; modularisation <br>
+&#9; ontology extraction <br>
+&#9; <details> <summary> unwanted consequences and missing entailment </summary>
+&#9; <details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
+&#9; abductive reasoning </details>
+&#9; inductive reasoning
 </details>
 
-- Extensions of description logics 
+<details> <summary> Extensions of description logics </summary> 
 - - closed-world reasoning 
 - - non-monotonic reasoning
 - - - defeasible reasoning
@@ -56,8 +56,9 @@ inductive reasoning
 - - procedural knowledge 
 - - query answering 
 - - reasoning over dynamic information
+</details>
 
-- Integration of description logics with other formalisms 
+<details> <summary> Integration of description logics with other formalisms </summary> 
 - - object-oriented representation languages 
 - - database query languages 
 - - constraint-based programming 
@@ -66,9 +67,9 @@ inductive reasoning
 - - - temporal existential rules
 - - - chase
 - - planning
+</details>
 
-
-- Applications and use areas of description logics 
+<details> <summary> Applications and use areas of description logics </summary> 
 - - ontology engineering 
 - - ontology languages 
 - - databases 
@@ -99,22 +100,22 @@ inductive reasoning
 - - practical experiences 
 - - -  case studies 
 - - - feasibility studies
+</details>
 
-
-- Systems and tools of all kinds around description logics 
-- - reasoners 
-- - ontology editors 
-- - ontology alignment 
-- - ontology extraction 
-- - other support for ontology development 
-- - database schema design 
-- - query rewriting
-- - data integration 
-- - implementation and optimization techniques 
-- - experiments
-- - - benchmarking 
-- - - user studies
-- - modeling
-- - visualization
-- - ontology embeddings
-
+<details> <summary> Systems and tools of all kinds around description logics </summary> 
+reasoners <br>
+ontology editors <br>
+ontology alignment <br>
+ontology extraction <br>
+other support for ontology development <br>
+database schema design <br>
+query rewriting <br>
+data integration <br>
+implementation and optimization techniques <br>
+<details> <summary> experiments </summary>
+benchmarking <br>
+user studies </details>
+modeling <br>
+visualization <br>
+ontology embeddings
+</details>
