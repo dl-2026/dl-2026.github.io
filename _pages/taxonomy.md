@@ -35,29 +35,28 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp;&emsp; abductive reasoning 
 &emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp; Data repairs; TBox repairs </details> </details>
 &emsp; inductive reasoning
-</details>
+</details> <br>
 
 <details> <summary> Extensions of description logics </summary> 
-&emsp; closed-world reasoning <br>
-&emsp; <details> <summary> non-monotonic reasoning </summary> 
-&emsp;&emsp; defeasible reasoning <br>
-&emsp;&emsp; deontic reasoning <br>
-&emsp;&emsp; neighbourhood DL <br>
-&emsp;&emsp; multiperspective reasoning </details>
-&emsp; <details> <summary> numerical </summary> 
-&emsp;&emsp; concrete domains <br>
-&emsp;&emsp; probabilistic reasoning <br>
-&emsp;&emsp; epistemic reasoning <br>
-&emsp;&emsp; fuzzy reasoning <br>
-&emsp;&emsp; preferential reasoning <br>
-&emsp;&emsp; <details> <summary> temporal reasoning </summary>
-&emsp;&emsp;&emsp; metric temporal DL <br>
-&emsp;&emsp;&emsp; linear-time temporal DL </details>
-&emsp;&emsp; spatial reasoning </details>
-&emsp; procedural knowledge 
-&emsp; query answering 
-&emsp; reasoning over dynamic information
-</details>
+&emsp; #️⃣ closed-world reasoning 
+&emsp; <details> <summary> #️⃣ non-monotonic reasoning </summary> 
+&emsp;&emsp; #️⃣ defeasible reasoning <br>
+&emsp;&emsp; #️⃣ deontic reasoning <br>
+&emsp;&emsp; #️⃣ neighbourhood DL <br>
+&emsp;&emsp; #️⃣ multiperspective reasoning </details>
+&emsp; <details> <summary> #️⃣ numerical reasoning  </summary> 
+&emsp;&emsp; #️⃣ concrete domains <br>
+&emsp;&emsp; #️⃣ probabilistic reasoning <br>
+&emsp;&emsp; #️⃣ epistemic reasoning <br>
+&emsp;&emsp; #️⃣ fuzzy reasoning <br>
+&emsp;&emsp; #️⃣ preferential reasoning 
+&emsp;&emsp; <details> <summary> #️⃣ temporal reasoning </summary>
+&emsp;&emsp;&emsp; #️⃣ metric temporal DL; #️⃣ linear-time temporal DL </details>
+&emsp;&emsp; #️⃣ spatial reasoning </details>
+&emsp; #️⃣ procedural knowledge 
+&emsp; #️⃣ query answering 
+&emsp; #️⃣ reasoning over dynamic information
+</details> <br>
 
 <details> <summary> Integration of description logics with other formalisms </summary> 
 - - object-oriented representation languages 
@@ -68,7 +67,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 - - - temporal existential rules
 - - - chase
 - - planning
-</details>
+</details> <br>
 
 <details> <summary> Applications and use areas of description logics </summary> 
 &emsp; ontology engineering 
@@ -101,22 +100,21 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; practical experiences 
 &emsp;-  case studies 
 &emsp;- feasibility studies
-</details>
+</details> <br>
 
 <details> <summary> Systems and tools of all kinds around description logics </summary> 
-&emsp; reasoners <br>
-&emsp; ontology editors <br>
-&emsp; ontology alignment <br>
-&emsp; ontology extraction <br>
-&emsp; other support for ontology development <br>
-&emsp; database schema design <br>
-&emsp; query rewriting <br>
-&emsp; data integration <br>
-&emsp; implementation and optimization techniques <br>
-&emsp; <details> <summary> experiments </summary>
-&emsp;&emsp; benchmarking <br>
-&emsp;&emsp; user studies </details>
-&emsp; modeling <br>
-&emsp; visualization <br>
-&emsp; ontology embeddings
+&emsp; #️⃣ reasoners <br>
+&emsp; #️⃣ ontology editors <br>
+&emsp; #️⃣ ontology alignment <br>
+&emsp; #️⃣ ontology extraction <br>
+&emsp; #️⃣ other support for ontology development <br>
+&emsp; #️⃣ database schema design <br>
+&emsp; #️⃣ query rewriting <br>
+&emsp; #️⃣ data integration <br>
+&emsp; #️⃣ implementation and optimization techniques 
+&emsp; <details> <summary> #️⃣ experiments </summary>
+&emsp;&emsp; #️⃣ benchmarking; #️⃣ user studies </details>
+&emsp; #️⃣ modeling <br>
+&emsp; #️⃣ visualization <br>
+&emsp; #️⃣ ontology embeddings
 </details>
