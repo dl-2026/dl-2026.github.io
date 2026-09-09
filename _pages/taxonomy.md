@@ -23,10 +23,10 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ decidability and complexity of reasoning <br>
 &emsp; #️⃣ expressive power 
 &emsp; <details> <summary> #️⃣ novel inference problems</summary> &emsp;&emsp; #️⃣ novel query type </details> 
+&emsp; #️⃣ modularisation 
 &emsp; <details> <summary> #️⃣ inconsistency management </summary> &emsp;&emsp; #️⃣ prioritized KBs; #️⃣ repairs: #️⃣ Data repairs #️⃣ TBox repairs; #️⃣ error-tolerance reasoning </details>
+&emsp; #️⃣ inductive reasoning 
 &emsp; <details> <summary> #️⃣ reasoning techniques </summary> &emsp;&emsp; #️⃣ translation to other logics </details>
-&emsp; #️⃣ modularisation <br>
-&emsp; #️⃣ inductive reasoning <br>
 &emsp; #️⃣ ontology extraction 
 &emsp; <details> <summary> #️⃣ unwanted consequences and missing entailment </summary> &emsp;&emsp; #️⃣ abductive reasoning; #️⃣ repairs: #️⃣ Data repairs #️⃣ TBox repairs </details>
 </details> 
@@ -35,10 +35,10 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ closed-world reasoning 
 &emsp; <details> <summary> #️⃣ non-monotonic reasoning </summary> 
 &emsp;&emsp; #️⃣ defeasible reasoning; #️⃣ deontic reasoning; #️⃣ neighbourhood DL; #️⃣ multiperspective reasoning </details>
+&emsp; #️⃣ query answering 
 &emsp; <details> <summary> #️⃣ numerical reasoning </summary> 
 &emsp;&emsp; #️⃣ concrete domains; #️⃣ probabilistic reasoning; #️⃣ epistemic reasoning; #️⃣ fuzzy reasoning; #️⃣ preferential reasoning; #️⃣ temporal reasoning: #️⃣ metric temporal DL #️⃣ linear-time temporal DL; #️⃣ spatial reasoning </details>
-&emsp; #️⃣ procedural knowledge 
-&emsp; #️⃣ query answering 
+&emsp; #️⃣ procedural knowledge <br>
 &emsp; #️⃣ reasoning over dynamic information
 </details> 
 
