@@ -20,8 +20,8 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 <a href="/assets/keywords.owl" target="_blank">The OWL ontology</a>
 
 <details> <summary>Foundations of description logics</summary> 
-&#9; decidability and complexity of reasoning <br>
-&#9; expressive power <br>
+&emsp; decidability and complexity of reasoning <br>
+&emsp; expressive power <br>
 &#9; <details> <summary> novel inference problems</summary> novel query type </details> 
 &#9; <details> <summary> inconsistency management </summary> 
 &#9; <details> <summary> repairs </summary> Data repairs <br> TBox repairs </details> 
@@ -70,36 +70,36 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 </details>
 
 <details> <summary> Applications and use areas of description logics </summary> 
-- - ontology engineering 
-- - ontology languages 
-- - databases 
-- - ontology-based data access 
-- - semi-structured data 
-- - graph-structured data 
-- - linked data 
-- - document management 
-- - Learning
-- - - Concept learning
-- - - Finite Characterization 
-- - explanations 
-- - - natural language generation
-- - - - Template-based
-- - - - LLM Generated
-- - - explanations of entailment
-- - - - proofs
-- - - - justifications / pinpointing
-- - - - fact relevance
-- - - explanations of non-entailment
-- - - - counterexamples
-- - - - abduction
-- - Semantic Web 
-- - cloud computing 
-- - conceptual modeling 
-- - web services 
-- - business processes 
-- - practical experiences 
-- - -  case studies 
-- - - feasibility studies
+&#9; ontology engineering 
+&#9; ontology languages 
+&#9; databases 
+&#9; ontology-based data access 
+&#9; semi-structured data 
+&#9; graph-structured data 
+&#9; linked data 
+&#9; document management 
+&#9; learning
+&#9;- concept learning
+&#9;- finite characterization 
+&#9; explanations 
+&#9;- natural language generation
+&#9;- - Template-based
+&#9;- - LLM Generated
+&#9;- explanations of entailment
+&#9;- - proofs
+&#9;- - justifications / pinpointing
+&#9;- - fact relevance
+&#9;- explanations of non-entailment
+&#9;- - counterexamples
+&#9;- - abduction
+&#9; Semantic Web 
+&#9; cloud computing 
+&#9; conceptual modeling 
+&#9; web services 
+&#9; business processes 
+&#9; practical experiences 
+&#9;-  case studies 
+&#9;- feasibility studies
 </details>
 
 <details> <summary> Systems and tools of all kinds around description logics </summary> 
