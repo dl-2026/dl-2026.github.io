@@ -35,7 +35,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp;&emsp; abductive reasoning 
 &emsp;&emsp; <details> <summary> repairs </summary> &emsp;&emsp;&emsp; Data repairs; TBox repairs </details> </details>
 &emsp; inductive reasoning
-</details> <br>
+</details> 
 
 <details> <summary> Extensions of description logics </summary> 
 &emsp; #️⃣ closed-world reasoning 
@@ -56,7 +56,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ procedural knowledge 
 &emsp; #️⃣ query answering 
 &emsp; #️⃣ reasoning over dynamic information
-</details> <br>
+</details> 
 
 <details> <summary> Integration of description logics with other formalisms </summary> 
 &emsp; #️⃣ object-oriented representation languages <br>
@@ -66,7 +66,7 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; #️⃣ planning 
 &emsp; <details> <summary> #️⃣ rule-based systems </summary>
 &emsp;&emsp; #️⃣ temporal existential rules; #️⃣ chase </details>
-</details> <br>
+</details> 
 
 <details> <summary> Applications and use areas of description logics </summary> 
 &emsp; #️⃣ ontology engineering <br>
@@ -85,11 +85,11 @@ We intend for this taxonomy to evolve with the community, adapting to new resear
 &emsp; <details> <summary> #️⃣ learning </summary>
 &emsp;&emsp; #️⃣ concept learning; #️⃣ finite characterization </details>
 &emsp; <details> <summary> #️⃣ explanations </summary>
-&emsp;&emsp; <details> <summary> #️⃣ natural language generation </summary>
+<details> <summary> &emsp;&emsp; #️⃣ natural language generation </summary>
 &emsp;&emsp;&emsp; #️⃣ Template-based; #️⃣ LLM Generated </details>
-&emsp;&emsp; <details> <summary> #️⃣ explanations of entailment </summary>
-&emsp;&emsp;&emsp; #️⃣ proofs; #️⃣ justifications; #️⃣ pinpointing; #️⃣ fact relevance </details>
-&emsp;&emsp; <details> <summary> #️⃣ explanations of non-entailment </summary>
+<details> <summary> &emsp;&emsp; #️⃣ explanations of entailment </summary>
+&emsp;&emsp;&emsp; #️⃣ proofs; #️⃣ justifications; #️⃣ pinpointing; #️⃣ fact relevance </details> 
+<details> <summary> &emsp;&emsp; #️⃣ explanations of non-entailment </summary>
 &emsp;&emsp;&emsp; #️⃣ counterexamples; #️⃣ abduction </details></details>
 &emsp; <details> <summary> #️⃣ practical experiences </summary>
 &emsp;&emsp; #️⃣  case studies; #️⃣ feasibility studies </details>
